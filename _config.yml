@@ -94,6 +94,7 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
+    - jekyll-github-metadata
     - jekyll-email-protect
     - jekyll-paginate
     - jekyll/scholar
