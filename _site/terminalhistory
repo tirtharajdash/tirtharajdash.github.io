@@ -1,0 +1,36 @@
+ 3997  vi _config.yml 
+ 3998  bundle exec jekyll serve
+ 3999  vi _config.yml 
+ 4000  bundle exec jekyll serve
+ 4001  vi _config.yml 
+ 4002  ls
+ 4003  vi README.md 
+ 4008  sudo apt autoremove
+ 4009  bundle update
+ 4010  bundle exec jekyll serve
+ 4011  vi _config.yml 
+ 4012  bundle exec jekyll serve
+ 4013  ./bin/deploy [--user]
+ 4014  ./bin/deploy --user
+ 4015  git add --all
+ 4016  git commit --all
+ 4017  ./bin/deploy --user
+ 4018  vi Gemfile.lock 
+ 4019  gem "jekyll-github-metadata"
+ 4020  gem --version
+ 4021  vi _config.yml 
+ 4022  bundle exec jekyll serve
+ 4023  git add --all
+ 4024  git commit --all
+ 4025  ./bin/deploy --user
+ 4026  vi _config.yml 
+ 4027  git add --all
+ 4028  git commit --all
+ 4029  bundle exec jekyll serve
+ 4030  ./bin/deploy --user
+ 4031  git commit --all
+ 4032  ./bin/deploy --user
+ 4033  history | tail -10
+ 4034  history | tail -100
+ 4035  history | tail -50
+ 4036  history | tail -50 > terminalhistory
