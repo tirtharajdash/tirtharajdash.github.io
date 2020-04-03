@@ -7,7 +7,7 @@ description: Courses that I have taught earlier or am teaching at present.
 
 At [BITS Pilani](https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems) (2015 - Till date):
 
-*Mostly:*
+*Frequently:*
 
  - Neural Networks (BITS F312)
  - Machine Learning (BITS F464) (with co-instructor: [Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin/profile))
