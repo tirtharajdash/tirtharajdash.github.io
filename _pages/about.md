@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>D-168</p>
-    <p>BITS Pilani, K.K. Birla Goa Campus</p>
+    <p>BITS Pilani, Goa Campus</p>
     <p>Zuarinagar, Goa 403726</p>
 
 news: true
