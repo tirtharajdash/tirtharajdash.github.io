@@ -24,12 +24,16 @@ Git was created by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds
 Version control in files, codes and other assets is a necessity as these things go numerous incarnations before become usable. There will be cases when overwriting a code can turn out to be a disaster leading to a total loss of all efforts. Manual version control is extremely cumbersome and sometimes may lead to content loss or unplanned commits. Automatic version control would help mitigate these problems, where you can just look at temporal changes made to the files and restore/accept the changes made recently. Further, the software is an outcome of effective collaboration of a team of contributors. Automated version control and collaboration tool such as GitHub allows these two very crucial operations. Therefore, it is imperative to know how to get our hands dirty with this tool.
 
 
+**Requirements to get started**
+
 Let's start. You need to have the following with you.
 
 1. A machine (I mean, a computer system. I am using a Linux-based one.)
 2. An account with GitHub. If you don't have one yet, create one for free here: [Join GitHub](https://github.com/join?source=header-home)
 3. An editor installed in your machine. (I would prefer the simplest one. **vi editor**)
 
+
+**Git installation**
 
 Additionally, you need to check whether *git* is installed in your system. For this, open your terminal window (Ubuntu users: CTRL + ALT + T or right-click and "open terminal"), and type (don't include '$' in your command. This is just to show you that it is in terminal.)
 ```
