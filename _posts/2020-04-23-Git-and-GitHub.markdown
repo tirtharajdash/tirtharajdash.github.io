@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub and Git (Getting started)
+title: GitHub and Git (all you need)
 date: 2020-04-23 04:00:00
 description: What is Git, GitHub, and how do I setup?
 ---
