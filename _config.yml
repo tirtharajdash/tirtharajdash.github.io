@@ -96,7 +96,7 @@ exclude: [vendor]
 plugins:
     - jekyll-email-protect
     - jekyll-paginate
-    - jekyll/scholar
+    - jekyll-scholar
     - jemoji
 
 # Jekyll-Scholar
