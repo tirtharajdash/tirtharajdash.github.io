@@ -173,14 +173,14 @@ $ git config --global core.editor emacs
 ```
 After you’ve made a few commits, check out the output of the git log command where you will be able to see the history of your repository, including all of the commit messages. This step is **optional**
 ```
-git log
+$ git log
 ```
 
 #### **Step 5: Now the BIG step (Pushing the repo online)**
 
 You can push your changes to GitHub online account with:
 ```
-git push
+$ git push
 ```
 You will be prompted to enter the username and password of your GitHub account. Make sure that you enter those correctly. Don't worry if it gets typed wrong. It won't push. But, your commit is still there. So you need to type the command *git push again*.
 
