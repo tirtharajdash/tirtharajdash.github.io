@@ -1,17 +1,17 @@
 ---
 layout: post
-title: GitHub and Git (all you need)
+title: Git and GitHub (all you need)
 date: 2020-04-23 04:00:00
-description: What is Git, GitHub, and how do I setup?
+description: What is Git, GitHub, and how do I get started?
 ---
-Let's start with the hardest (:-)) question first. **What is GitHub?**
-
-This question has two answers. [GitHub](https://en.wikipedia.org/wiki/GitHub) (officially: GitHub, Inc.) is a US-based global company that provides hosting for software development version control. The version control is done with the help of **Git**. The company was [acquired by Microsoft](https://blogs.microsoft.com/blog/2018/10/26/microsoft-completes-github-acquisition/) in 2018. Since then, it has become a subsidiary of Microsoft.
-
-
 **What is Git?**
 
-Technically, I would consider this as my first question. [Git](https://git-scm.com/) is a distributed version control system to effectively and efficiently track changes in source codes during the process of software development. 
+[Git](https://git-scm.com/) is a distributed version control system to effectively and efficiently track changes in source codes during the process of software development.
+
+
+**What is GitHub?**
+
+If you are reading this blog, then you must have heard about GitHub at least once. [GitHub](https://en.wikipedia.org/wiki/GitHub) (officially: GitHub, Inc.) is a US-based global company that provides hosting for software development version control. The version control is done with the help of **Git**. The company was [acquired by Microsoft](https://blogs.microsoft.com/blog/2018/10/26/microsoft-completes-github-acquisition/) in 2018. Since then, it has become a subsidiary of Microsoft.
 
 
 By the way, **Who is the creator of these?**
@@ -184,13 +184,12 @@ git push
 ```
 You will be prompted to enter the username and password of your GitHub account. Make sure that you enter those correctly. Don't worry if it gets typed wrong. It won't push. But, your commit is still there. So you need to type the command *git push again*.
 
-This will show you all the stories that follow. After successfully pushed, you can check them online and you will feel happy.
-
-
-I hope this helps. The following references were helpful while creating this article.
+This will show you all the stories that follow. After successfully pushed, you can check them online and you will feel happy. Welcome to the world of ***Git and GitHub***.
 
 
 #### References
+
+The following references were helpful while creating this article.
 
 1. [Your fist time with Git and Github](https://kbroman.org/github_tutorial/pages/first_time.html) (accessed January 2020)
 2. [First step with Git](https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/) (accessed January 2020)
