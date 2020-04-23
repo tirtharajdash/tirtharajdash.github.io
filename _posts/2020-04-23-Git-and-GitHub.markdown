@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GitHub and Git (all that we need to get started)
+title: GitHub and Git (Getting started)
 date: 2020-04-23 04:00:00
 description: What is Git, GitHub, and how do I setup?
 ---
@@ -163,7 +163,7 @@ Alternatively, if you want to explain your commits in multiline, you do so using
 ```
 $ git commit
 ```
-This will use the default editor (in my case, *vi*). If you prefer some other editor like *emacs*, you need to set it up for use by Git:
+This will use the default editor (in my case, *vi* or *nano*). If you prefer some other editor like *emacs*, you need to set it up for use by Git:
 ```
 $ git config --global core.editor emacs
 ```
