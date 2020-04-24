@@ -31,10 +31,9 @@ description: Participations in journal and conference activies and more.
 
 **Conferences**
 
- - Technical Committee Member, IJCNN 2020
- - Technical Committee Member, IJCNN 2019
- - Technical Committee Member, IJCNN 2020
- - Technical Committee Member, ICANN 2019
- - Reviewer, ILP 2019
- - Organizing Committee, ICCI-2017, IIT-K, India
+ - Technical Committee Member, [IJCNN 2020](https://wcci2020.org/)
+ - Technical Committee Member, [IJCNN 2019](https://www.ijcnn.org/)
+ - Technical Committee Member, [ICANN 2019](https://e-nns.org/icann2019/)
+ - Reviewer, [ILP 2019](https://ilp2019.org/)
+ - Organizing Committee, [ICCI-2017](https://www.iitk.ac.in/idea/ICCI2017/)
 
