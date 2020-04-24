@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: Professional Services
+title: Services
 description: Participations in journal and conference activies and more.
 ---
 
