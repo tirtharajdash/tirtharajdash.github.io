@@ -44,7 +44,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: DashedBlogs
+blog_name: DashLogs
 blog_description: Summaries, Articles, Posts, Fun and more.
 
 # Pagination
