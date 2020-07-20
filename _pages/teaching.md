@@ -23,4 +23,5 @@ At [BITS Pilani](https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSy
 At [NIST](https://www.nist.edu/) (2014 - 2015):
 
  - Analysis and Design of Algorithms
- - Computers and Object Oriented Programming  
+ - Computers and Object Oriented Programming
+

@@ -1,4 +1,4 @@
- bundle exec jekyll serve
- git add --all
- git commit --all
- ./bin/deploy --user
+bundle exec jekyll serve
+git add --all
+git commit --all
+./bin/deploy --user
