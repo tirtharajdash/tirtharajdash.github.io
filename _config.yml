@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 name: Tirtharaj Dash
 title: Tirtharaj Dash
-email: tirtharaj@goa.bits-pilani.ac.in
+email: dashtirtharaj@acm.org
 description: > # this means to ignore newlines until "url:"
-  This is the personal homepage of Tirtharaj Dash.
+  Personal homepage of Tirtharaj Dash.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
