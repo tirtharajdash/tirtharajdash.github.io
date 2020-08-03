@@ -21,14 +21,13 @@ Neural networks can learn from non-symbolic or structured data, and they are fou
 
 I am interested in the development of machine learning and deep learning systems to address specific learning problems. A learning problem can be characterised by observations comprised of either input-output pairs (supervised learning) or only inputs (unsupervised learning). I am mostly interested in solving problems arising in biology, chemistry, internet-of-things (IoT), and finance. I also like exploring applications of stochastic (and evolutionary) optimisation to machine learning.
 
----
+<br/>
 
 **Teaching**
 
 I love teaching any course that is in line with my present research interests: Deep Learning, Machine Learning, Artificial Intelligence. In the past, I have always enjoyed teaching programming (mostly in C or C++) to first-year undergrad students. A course on data structure and algorithms has always been my crush in my short teaching life. I have taught database systems (including labs on MySQL) and would like to teach if I have to.
  
- 
----
+<br/>
 
 **What else?**
 
