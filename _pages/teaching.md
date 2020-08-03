@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses that I have taught earlier or am teaching at present.
+description: Courses that I have taught in the past or I am teaching at present.
 ---
 
 At [BITS Pilani](https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems) (2015 - Till date):
