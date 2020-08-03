@@ -12,7 +12,7 @@ footer_text: >
 
 url: #https://tirtharajdash.github.io  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: Aug 02, 2020 # leave blank if you don't want to display last updated
+last_updated: Aug 03, 2020 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -20,7 +20,7 @@ last_updated: Aug 02, 2020 # leave blank if you don't want to display last updat
 # Display links to the page with a preview object on social media.
 # To achieve this, change serve_og_meta to true and then provide the URL of the
 # preview image as the value of og_image.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
