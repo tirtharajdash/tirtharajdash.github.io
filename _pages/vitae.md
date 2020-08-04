@@ -7,9 +7,8 @@ description: My curriculum vitae (CV) and list of professional services
 
 My CV contains almost all the information about me, although some sections are condensed to limit it to pages. You can view/download it here: <a href="/vitae/TirtharajDash.pdf" target="_blank">full CV</a>. References are available upon request. 
 
----
-
-**Professional services** include: my review activities for reputed journals, international conferences and more.
+<br/>
+**Professional services**
 
 *Journal Reviewer*
 
@@ -27,7 +26,7 @@ My CV contains almost all the information about me, although some sections are c
 - Paladyn Journal of Behavioral Robotics (<a href="https://www.degruyter.com/view/journals/pjbr/pjbr-overview.xml" target="_blank">PJBR</a>)
 - <a href="https://www.cambridge.org/core/journals/robotica" target="_blank">Robotica</a>
 - Ain Shams Engineering Journal (<a href="https://www.journals.elsevier.com/ain-shams-engineering-journal" target="_blank">ASEJ</a>) 
-- Proceedings of the National Academy of Sciences India (<a href="https://www.springer.com/journal/40011" target="_blank">NASB</a>)
+- Proceedings of the National Academy of Sciences India (<a href="https://www.springer.com/journal/40010" target="_blank">NASA</a>)
 - International Journal of Image and Data Fusion (<a href="https://www.tandfonline.com/toc/tidf20/current" target="_blank">TIDF</a>) 
 - International Journal of Communication Systems (<a href="https://onlinelibrary.wiley.com/journal/10991131" target="_blank">IJCS</a>) 
 - Data Technologies and Applications (<a href="https://www.emeraldgrouppublishing.com/journal/dta" target="_blank">DTA</a>)
