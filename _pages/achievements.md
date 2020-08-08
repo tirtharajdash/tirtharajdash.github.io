@@ -7,9 +7,9 @@ description: Some selected achievements that I like to show off.
 
 **2020**&nbsp;&nbsp;&nbsp; Our work in [Expert Systems](https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12327) journal is listed among the top 10% most read papers.
 
-**2019**&nbsp;&nbsp;&nbsp; I appear on newspapers for my AWSAR Award: [1](http://epaper.thegoan.net/2583778/The-Goan-Everyday/The-Goan-Everyday?fbclid=IwAR0Ji7bjAAH5_DbZa6_T9yMW5dVNieryEwX_wuVSBfIw_b0J8Hnv99A9yE8#page/4/1), [2](http://epaper.navhindtimes.in/NewsDetail.aspx?storyid=30117&date=2020-03-13&pageid=1&fbclid=IwAR11Ijk-OCrvjYmaKz641axQDBtFGd_9CCXta_lkldEw4x84IIyQ4bN6kfU), [3](http://epaper.navhindtimes.in/NewsDetail.aspx?storyid=30117&date=2020-03-13&pageid=1&fbclid=IwAR11Ijk-OCrvjYmaKz641axQDBtFGd_9CCXta_lkldEw4x84IIyQ4bN6kfU).
+**2020**&nbsp;&nbsp;&nbsp; I appear on newspapers for my AWSAR Award: [1](http://epaper.thegoan.net/2583778/The-Goan-Everyday/The-Goan-Everyday?fbclid=IwAR0Ji7bjAAH5_DbZa6_T9yMW5dVNieryEwX_wuVSBfIw_b0J8Hnv99A9yE8#page/4/1), [2](http://epaper.navhindtimes.in/NewsDetail.aspx?storyid=30117&date=2020-03-13&pageid=1&fbclid=IwAR11Ijk-OCrvjYmaKz641axQDBtFGd_9CCXta_lkldEw4x84IIyQ4bN6kfU), [3](http://epaper.navhindtimes.in/NewsDetail.aspx?storyid=30117&date=2020-03-13&pageid=1&fbclid=IwAR11Ijk-OCrvjYmaKz641axQDBtFGd_9CCXta_lkldEw4x84IIyQ4bN6kfU).
 
-**2019**&nbsp;&nbsp;&nbsp; I won the [AWSAR Award](https://www.awsar-dst.in/) 2019 from [DST](https://dst.gov.in/), Govt. of India [(Read my submission)](https://tirtharajdash.github.io/blog/2020/Lets-build-intelligent-machines-with-hide-and-seek/)
+**2020**&nbsp;&nbsp;&nbsp; I won the [AWSAR Award](https://www.awsar-dst.in/) 2019 from [DST](https://dst.gov.in/), Govt. of India [(Read my submission)](https://tirtharajdash.github.io/blog/2020/Lets-build-intelligent-machines-with-hide-and-seek/)
 
 **2018**&nbsp;&nbsp;&nbsp; Won the [Best Student Research Paper Award](http://ilp2018.unife.it/awards/) from Machine Learning Journal in ILP.
 
