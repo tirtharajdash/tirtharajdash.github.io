@@ -11,7 +11,7 @@ description: Some selected achievements that I like to show off.
 
 **2020**&nbsp;&nbsp;&nbsp; I won the <a rel="external nofollow" href="https://www.awsar-dst.in/" target="_blank">AWSAR Award</a> 2019 from <a href="https://dst.gov.in/" target="_blank">DST</a>, Govt. of India [(Read my submission)](https://tirtharajdash.github.io/blog/2020/Lets-build-intelligent-machines-with-hide-and-seek/)
 
-**2018**&nbsp;&nbsp;&nbsp; Won the <a rel="external nofollow" href="http://ilp2018.unife.it/awards/ target="_blank">Best Student Research Paper Award</a> from Machine Learning Journal in ILP.
+**2018**&nbsp;&nbsp;&nbsp; Won the <a rel="external nofollow" href="http://ilp2018.unife.it/awards/" target="_blank">Best Student Research Paper Award</a> from Machine Learning Journal in ILP.
 
 **2018**&nbsp;&nbsp;&nbsp; Awarded Travel Grant from <a rel="external nofollow" href="https://www.eurai.org/" target="_blank">EurAI</a> to attend <a rel="external nofollow" href="http://acai2018.unife.it/" target="_blank">ACAI-2018</a>, Ferrara, Italy.
 
