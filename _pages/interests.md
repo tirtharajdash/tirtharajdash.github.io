@@ -21,6 +21,8 @@ Neural networks can learn from non-symbolic or structured data, and they are fou
 
 I am interested in the development of machine learning and deep learning systems to address specific learning problems. A learning problem can be characterised by observations comprised of either input-output pairs (supervised learning) or only inputs (unsupervised learning). I am mostly interested in solving problems arising in biology, chemistry, internet-of-things (IoT), and finance. I also like exploring applications of stochastic (and evolutionary) optimisation to machine learning.
 
+In future, there will be a website for my lab: <a href="https://github.com/iMachLab" target="_blank">iMachLab</a>.
+
 <br/>
 
 **Teaching**
@@ -29,7 +31,7 @@ I love teaching any course that is in line with my present research interests: D
  
 <br/>
 
-**What else?**
+**What else, if it matters to you?**
 
-I enjoy riding motorbikes (mostly fast-yet-careful racing). I play cricket; I am a batsman and a wicketkeeper. That view of the game from behind the stumps is extraordinary. I have occasionally played football; I am a goalkeeper. I love swimming in the sea (The Arabian sea is my neighbour) and known rivers. Trekking is something that always excites me. Watching movies on weekends has always been there since my undergrad studies (sometimes, I do binge-watch). In addition to all these fun stuff, I am also interested in philosophy, spirituality, farming, and poverty prevention.
+I was born and raised in a remote village of Western Odisha, an Indian state rich in culture, vegetables and farming. My father (who is a Master in Arts and Bhagavad Gita) and extended paternal family are involved mostly in farming and small businesses. We speak a dilect of Odia language, known as Kosali (a folk language). My district is known for Odia folk music and the famous Sambalpuri Saree. I enjoy riding motorbikes (mostly fast-yet-careful racing). I play cricket; I am a batsman and a wicketkeeper. That view of the game from behind the stumps is extraordinary. I have occasionally played football; I am a goalkeeper. I love swimming in the sea (The Arabian sea is my neighbour) and known rivers. Trekking is something that always excites me. Watching movies on weekends has always been there since my undergrad studies (sometimes, I do binge-watch). In addition to all these fun stuff, I am also interested in philosophy, spirituality, farming, and poverty prevention.
 
