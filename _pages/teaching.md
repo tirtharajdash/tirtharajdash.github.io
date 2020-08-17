@@ -7,16 +7,18 @@ description: Courses that I have taught in the past or I am teaching at present.
 
 At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani</a> (2015 - Till date):
 
-*Frequently:*
+*Courses marked with '\*' are those which I have taught at least for 4 semesters. My duty for each course is either as Instructor-in-Charge (IC) or as Instructor (IN).*
 
- - Neural Networks (BITS F312)
- - Machine Learning (BITS F464) (with co-instructor: <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a>)
+ - Introduction to Data Science (BAZG523/CSIZG523): as **IC**; <a rel="external nofollow" href="https://bits-pilani-wilp.ac.in/" target="_blank">WILP</a> course. <a rel="external nofollow" href="https://github.com/tirtharajdash/IntroductionToDataScience" target="_blank">[Labs]</a>
+ - *Neural Networks (BITS F312): as **IC**; I started this course in our department.
+ - *Machine Learning (BITS F464): mostly as **IN**, as **IC** one time. <a rel="external nofollow" href="http://bits-f464.github.io/" target="_blank">[Tutorials and Labs]</a>
+ - Artificial Intelligence (BITS F407): as **IN**
+ - *Database Systems (CS F212): as **IN**
+ - Computer Programming (CS F111): as **IN**
 
-*Not very frequently:*
+*Additionally, I have been associated with formulating new courses for the institute.*
 
- - Artificial Intelligence (BITS F407) (with co-instructor: <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a>)
- - Database Systems (CS F212) (with co-instructor: Debasis Das)
- - Computer Programming (CS F111) (with co-instructor: <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/abaskar/profile" target="_blank">A. Baskar</a>)
+ - Deep Learning: I was involved in formulating the full course plan.
 
 <br/>
 
