@@ -10,15 +10,15 @@ At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerSc
 *Courses marked with '\*' are those which I have taught at least for 4 semesters. My duty for each course is either as Instructor-in-Charge (IC) or as Instructor (IN).*
 
  - Introduction to Data Science (BAZG523/CSIZG523): as **IC**; <a rel="external nofollow" href="https://bits-pilani-wilp.ac.in/" target="_blank">WILP</a> course. <a rel="external nofollow" href="https://github.com/tirtharajdash/IntroductionToDataScience" target="_blank">[Labs]</a>
- - *Neural Networks (BITS F312): as **IC**; I started this course in our department.
+ - *Neural Networks (BITS F312): as **IC**; I started this course in our department; Deep Learning contents.
  - *Machine Learning (BITS F464): mostly as **IN**, as **IC** one time. <a rel="external nofollow" href="http://bits-f464.github.io/" target="_blank">[Tutorials and Labs]</a>
  - Artificial Intelligence (BITS F407): as **IN**
  - *Database Systems (CS F212): as **IN**
  - Computer Programming (CS F111): as **IN**
 
-*Additionally, I have been associated with formulating new courses for the institute.*
+*Additionally, I have been involved in formulating new courses for the institute:*
 
- - Deep Learning: I was involved in formulating the full course plan.
+ - Deep Learning: full course plan
 
 <br/>
 
