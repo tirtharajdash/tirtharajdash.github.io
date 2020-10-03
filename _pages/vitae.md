@@ -27,6 +27,7 @@ My CV contains almost all the information about me, although some sections are c
 - <a rel="external nofollow" href="https://www.cambridge.org/core/journals/robotica" target="_blank">Robotica</a>
 - Ain Shams Engineering Journal (<a rel="external nofollow" href="https://www.journals.elsevier.com/ain-shams-engineering-journal" target="_blank">ASEJ</a>) 
 - Proceedings of the National Academy of Sciences India (<a rel="external nofollow" href="https://www.springer.com/journal/40010" target="_blank">NASA</a>)
+- International Journal Intelligent Robotics and Applications (<a rel="external nofollow" href="https://www.springer.com/journal/41315" target="_blank">JIRA</a>)
 - International Journal of Image and Data Fusion (<a rel="external nofollow" href="https://www.tandfonline.com/toc/tidf20/current" target="_blank">TIDF</a>) 
 - International Journal of Communication Systems (<a rel="external nofollow" href="https://onlinelibrary.wiley.com/journal/10991131" target="_blank">IJCS</a>) 
 - Data Technologies and Applications (<a rel="external nofollow" href="https://www.emeraldgrouppublishing.com/journal/dta" target="_blank">DTA</a>)
@@ -38,5 +39,5 @@ My CV contains almost all the information about me, although some sections are c
 
 - Member of technical committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ijcnn/index" target="_blank">IJCNN</a>: 2019, 2020
 - Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/icann/" target="_blank">ICANN</a>: 2019, 2020
-- Reviewer, <a rel="external nofollow" href="https://dblp.org/db/conf/ilp/" target="_blank">ILP</a>: 2019
+- Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ilp/" target="_blank">ILP</a>: 2019
 - Member of organizing committee, ICCI: 2017 (IIT Kanpur)
