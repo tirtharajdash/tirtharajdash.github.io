@@ -12,7 +12,7 @@ footer_text: >
 
 url: #https://tirtharajdash.github.io  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: Aug 17, 2020 # leave blank if you don't want to display last updated
+last_updated: Oct 9, 2020 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Open Graph
