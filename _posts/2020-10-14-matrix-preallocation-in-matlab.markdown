@@ -71,4 +71,4 @@ Now, you may be thinking, so what? It is just a matter of few seconds. Well, I w
 
 <br/>
 
-After all this reading, you may be interested in going through the official page of Mathworks on [Preallocating arrays](https://in.mathworks.com/help/matlab/matlab_prog/preallocating-arrays.html). Cheers!
+Let me know, if this post helped you. Also, you may be interested in going through the official page of Mathworks on <a rel="external nofollow" href="https://in.mathworks.com/help/matlab/matlab_prog/preallocating-arrays.html" target="_blank">Preallocation</a>. Cheers!
