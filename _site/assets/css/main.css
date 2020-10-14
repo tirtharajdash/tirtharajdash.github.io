@@ -489,6 +489,8 @@ figcaption { font-size: 0.875rem; }
 
 .img_row { /*height: $img-height;*/ width: 100%; overflow: hidden; box-sizing: border-box; }
 
+.img_row1 { display: block; margin-left: auto; margin-right: auto; overflow: hidden; }
+
 .col { width: 100%; height: 100%; object-fit: cover; box-sizing: border-box; /*padding: $img-spacing;*/ }
 
 .one { width: 33.33%; }
@@ -496,6 +498,8 @@ figcaption { font-size: 0.875rem; }
 .two { width: 66.66%; }
 
 .three { width: 100%; }
+
+.four { width: 45%; }
 
 .caption { height: 100%; color: #aaa; text-align: center; vertical-align: middle; font-size: 12px; }
 

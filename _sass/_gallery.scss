@@ -16,6 +16,12 @@ figcaption {
     overflow: hidden;
     box-sizing:border-box;
 }
+.img_row1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
 .col {
     width: 100%;
     height: 100%;
@@ -31,6 +37,9 @@ figcaption {
 }
 .three {
     width: 100%;
+}
+.four {
+    width: 45%;
 }
 .caption {
     height: 100%;
