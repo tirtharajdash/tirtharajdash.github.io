@@ -2,12 +2,12 @@
 layout: post
 title: How does matrix preallocation in MATLAB affect computation speed?
 date: 2020-10-14 09:00:00
-description: A simple demonstration to show the affect of preallocation in MATLAB
+description: A simple demonstration to show the effect of preallocation in MATLAB
 ---
 
 Recently, I was asked by a friend "why do your MATLAB codes contains a preallocation line for matrices?... Isn't it easy to just do things in place and let MATLAB understand what the initialisation of the matrix should be." "Well, it would work; but, have you ever thought about how would it affect the computation speeed (in a way, the overall code running efficiency)", I said.
 
-So, to address the above question, I wanted to demonstrate it visually using a small MATLAB code that has both preallocation and non-preallocation routines. The problem is simple. Show the effect of preallocation on continous array appends and updates. If you are confortable in looking at the code, here is it:
+So, to address the above question, I wanted to demonstrate it visually using a small MATLAB code that has both preallocation and non-preallocation routines. The problem is simple. Show the effect of preallocation on continous array appends and updates. If you are comfortable in looking at the code, here is it:
 
 {% highlight matlab %}
 
