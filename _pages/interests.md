@@ -35,3 +35,9 @@ I love teaching any course that is in line with my present research interests: D
 
 I was born and raised in a remote village of Western Odisha, an Indian state rich in culture, vegetables and farming. My father (who is a Master in Arts and Bhagavad Gita) and extended paternal family are involved mostly in farming and small businesses. We speak a dilect of Odia language, known as Kosali (a folk language). My district is known for Odia folk music and the famous Sambalpuri Saree. I enjoy riding motorbikes (mostly fast-yet-careful racing). I play cricket; I am a batsman and a wicketkeeper. That view of the game from behind the stumps is extraordinary. I have occasionally played football; I am a goalkeeper. I love swimming in the sea (The Arabian sea is my neighbour) and known rivers. Trekking is something that always excites me. Watching movies on weekends has always been there since my undergrad studies (sometimes, I do binge-watch). In addition to all these fun stuff, I am also interested in philosophy, spirituality, farming, and poverty prevention.
 
+Websites, I regularly visit:
+
+- <a rel="external nofollow" href="https://www.bhagavad-gita.org/" target="_blank">Srimad Bhagavad Gita</a>
+- <a rel="external nofollow" href="https://www.britannica.com/" target="_blank">Britanica</a>
+- <a rel="external nofollow" href="https://thebuddhistsociety.org/page/home" target="_blank">The Buddhist Society</a>
+- ...more to add 

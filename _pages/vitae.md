@@ -5,7 +5,7 @@ title: vitae
 description: My curriculum vitae (CV) and list of professional services
 ---
 
-My CV contains almost all the information about me, although some sections are condensed to limit it to pages. You can view/download it here: <a href="/vitae/TirtharajDash.pdf" target="_blank">full CV</a>. References are available upon request. 
+My CV contains almost all the information about me, although some sections are condensed to limit the number of pages. You can view/download it here: <a href="/vitae/TirtharajDash.pdf" target="_blank">full CV</a>. References are available upon request. 
 
 <br/>
 **Professional services**
@@ -37,7 +37,7 @@ My CV contains almost all the information about me, although some sections are c
 
 *Conference Activities*
 
-- Member of technical committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ijcnn/index" target="_blank">IJCNN</a>: 2019, 2020
+- Member of technical committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ijcnn/index" target="_blank">IJCNN</a>: 2019, 2020, 2021
 - Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/icann/" target="_blank">ICANN</a>: 2019, 2020
 - Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ilp/" target="_blank">ILP</a>: 2019
 - Member of organizing committee, ICCI: 2017 (IIT Kanpur)
