@@ -19,7 +19,7 @@ At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerSc
 
 *Additionally, I have been involved in formulating new courses for the institute:*
 
- - Deep Learning (<a href="DL.pdf" target="_blank">Handout</a>)
+ - Deep Learning [<a href="/assets/pdf/DL.pdf" target="_blank">Handout</a>]
 
 <br/>
 
