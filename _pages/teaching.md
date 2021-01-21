@@ -9,6 +9,7 @@ At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerSc
 
 *Courses marked with '\*' are the ones that I have taught at least for 4 semesters. My duty for each course is either as Instructor-in-Charge (IC) or as Instructor (IN). IC has additional administrative responsibilities concerning the course.*
 
+ - Meta-Learning (BITS G513): as **IN** with Dr. Gautam Shroff <a rel="external nofollow" href="https://sites.google.com/view/meta-learning-2021/home" target="_blank">[Course Page]</a> 
  - Introduction to Data Science (BAZG523/CSIZG523): as **IC**; <a rel="external nofollow" href="https://bits-pilani-wilp.ac.in/" target="_blank">WILP</a> course. <a rel="external nofollow" href="https://github.com/tirtharajdash/IntroductionToDataScience" target="_blank">[Labs]</a>
  - *Neural Networks (BITS F312): as **IC**; I started this course in our department.
  - *Machine Learning (BITS F464): mostly as **IN**, as **IC** one time. <a rel="external nofollow" href="http://bits-f464.github.io/" target="_blank">[Tutorials and Labs]</a>
@@ -18,7 +19,7 @@ At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerSc
 
 *Additionally, I have been involved in formulating new courses for the institute:*
 
- - Deep Learning: full course plan
+ - Deep Learning (<a href="DL.pdf" target="_blank">Handout</a>)
 
 <br/>
 

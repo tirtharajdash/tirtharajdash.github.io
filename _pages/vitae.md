@@ -5,7 +5,7 @@ title: vitae
 description: My curriculum vitae (CV) and list of professional services
 ---
 
-My CV contains almost all the information about me, although some sections are condensed to limit the number of pages. You can view/download it here: <a href="/vitae/TirtharajDash.pdf" target="_blank">full CV</a>. References are available upon request. 
+My CV contains almost all the information about me, although some sections are condensed to limit the number of pages. You can view/download it here: <a href="/vitae/TirtharajDash.pdf" target="_blank">CV</a>. References are available upon request. 
 
 <br/>
 **Professional services**
