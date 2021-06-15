@@ -44,7 +44,7 @@ google_analytics: UA-174690207-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: DashLogs
+blog_name: PenfulLogs #DashLogs
 blog_description: Summaries, Articles, Posts, Fun and more.
 
 # Pagination

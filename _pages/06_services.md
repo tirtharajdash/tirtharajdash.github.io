@@ -15,7 +15,8 @@ description: Professional services
 - IEEE Transactions on Cybernetics (<a rel="external nofollow" href="https://www.ieeesmc.org/publications/transactions-on-cybernetics" target="_blank">CYB-IEEE</a>)*
 - Neural Processing Letters (<a rel="external nofollow" href="https://www.springer.com/journal/11063" target="_blank">NEPL</a>)*
 - IEEE Systems Journal (<a rel="external nofollow" href="https://ieeesystemsjournal.org/" target="_blank">IEEE-SJ</a>)
-- <a rel="external nofollow" href="https://ieeeaccess.ieee.org/" target="_blank">IEEE-Access</a>
+- IEEE Transactions on Network Science and Engineering (<a rel="external nofollow" href="https://www.comsoc.org/publications/journals/ieee-tnse" target="_blank">TNSE</a>)
+- <a rel="external nofollow" href="https://ieeeaccess.ieee.org/" target="_blank">IEEE Access</a>
 - Information Fusion (<a rel="external nofollow" href="https://www.sciencedirect.com/journal/information-fusion/" target="_blank">INFFUS</a>)*
 - Cognitive Systems Research (<a rel="external nofollow" href="https://www.journals.elsevier.com/cognitive-systems-research" target="_blank">COGSYS</a>)* 
 - Computers & Security (<a rel="external nofollow" href="https://www.journals.elsevier.com/computers-and-security" target="_blank">COSE</a>) 
