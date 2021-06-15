@@ -36,6 +36,6 @@ description: Professional services
 *Conference Activities*
 
 - Member of technical committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ijcnn/index" target="_blank">IJCNN</a>: 2019, 2020, 2021
-- Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/icann/" target="_blank">ICANN</a>: 2019, 2020
+- Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/icann/" target="_blank">ICANN</a>: 2019, 2020, 2021
 - Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ilp/" target="_blank">ILP</a>: 2019
 - Member of organizing committee, ICCI: 2017 (IIT Kanpur)
