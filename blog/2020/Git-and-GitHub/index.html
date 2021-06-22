@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Tirtharaj Dash | Git and GitHub (all you need)</title>
+  <meta name="description" content="Personal homepage of Tirtharaj Dash.
+">
+
+  
+    <meta property="og:site_name" content="Personal homepage of Tirtharaj Dash.
+" />
+    <meta property="og:type" content="object" />
+    <meta property="og:title" content="Tirtharaj Dash" />
+    <meta property="og:url" content="/blog/2020/Git-and-GitHub/" />
+    <meta property="og:description" content="Git and GitHub (all you need)" />
+    <meta property="og:image"
+          content="" />
+  
+
+  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="canonical" href="/blog/2020/Git-and-GitHub/">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+
+  <div class="wrapper">
+
+    
+    <span class="site-title">
+        
+        <strong>Tirtharaj</strong> Dash
+    </span>
+    
+
+    <nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+      <div class="trigger">
+        <!-- About -->
+        <a class="page-link" href="/">about</a>
+
+        <!-- Blog -->
+        <a class="page-link" href="/blog/">blog</a>
+
+        <!-- Pages -->
+        
+          
+        
+          
+            <a class="page-link" href="/interests/">interests</a>
+          
+        
+          
+            <a class="page-link" href="/achievements/">achivements</a>
+          
+        
+          
+            <a class="page-link" href="/publications/">publications</a>
+          
+        
+          
+            <a class="page-link" href="/teaching/">teaching</a>
+          
+        
+          
+            <a class="page-link" href="/services/">services</a>
+          
+        
+          
+        
+          
+        
+          
+        
+
+        <!-- CV link -->
+        <!-- <a class="page-link" href="/assets/pdf/CV.pdf">vitae</a> -->
+
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Git and GitHub (all you need)</h1>
+    <p class="post-meta">April 23, 2020</p>
+  </header>
+
+  <article class="post-content">
+    <p><strong>What is Git?</strong></p>
+
+<p><a href="https://git-scm.com/">Git</a> is a distributed version control system to effectively and efficiently track changes in source codes during the process of software development.</p>
+
+<p><strong>What is GitHub?</strong></p>
+
+<p>If you are reading this blog, then you must have heard about GitHub at least once. <a href="https://en.wikipedia.org/wiki/GitHub">GitHub</a> (officially: GitHub, Inc.) is a US-based global company that provides hosting for software development version control. The version control is done with the help of <strong>Git</strong>. The company was <a href="https://blogs.microsoft.com/blog/2018/10/26/microsoft-completes-github-acquisition/">acquired by Microsoft</a> in 2018. Since then, it has become a subsidiary of Microsoft.</p>
+
+<p>By the way, <strong>Who is the creator of these?</strong></p>
+
+<p>Git was created by <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a> in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development. GitHub was founded by Tom Preston-Werner, Chris Wanstrath, Scott Chacon, P. J. Hyett; all are software developers and entrepreneurs.</p>
+
+<p><strong>Why should you bother about version control anyway?</strong></p>
+
+<p>Version control in files, codes and other assets is a necessity as these things go numerous incarnations before become usable. There will be cases when overwriting a code can turn out to be a disaster leading to a total loss of all efforts. Manual version control is extremely cumbersome and sometimes may lead to content loss or unplanned commits. Automatic version control would help mitigate these problems, where you can just look at temporal changes made to the files and restore/accept the changes made recently. Further, the software is an outcome of effective collaboration of a team of contributors. Automated version control and collaboration tool such as GitHub allows these two very crucial operations. Therefore, it is imperative to know how to get our hands dirty with this tool.</p>
+
+<p><strong>Requirements to get started</strong></p>
+
+<p>Let’s start. You need to have the following with you.</p>
+
+<ol>
+  <li>A machine (I mean, a computer system. I am using a Linux-based one.)</li>
+  <li>An account with GitHub. If you don’t have one yet, create one for free here: <a href="https://github.com/join?source=header-home">Join GitHub</a></li>
+  <li>An editor installed in your machine. (I would prefer the simplest one. <strong>vi editor</strong>)</li>
+</ol>
+
+<p><strong>Git installation</strong></p>
+
+<p>Additionally, you need to check whether <em>git</em> is installed in your system. For this, open your terminal window (Ubuntu users: CTRL + ALT + T or right-click and “open terminal”), and type (don’t include ‘$’ in your command. This is just to show you that it is in terminal.)</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git --version [ENTER]
+</code></pre></div></div>
+<p>If you already have <em>git</em> installed, it will show <em>git</em> version, which is in my case 2.17.1:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git version 2.17.1
+</code></pre></div></div>
+<p>You could also type <em>git</em> or <em>git –help</em> to get more information about the <em>git</em> commands.</p>
+
+<p>If you do not have <em>git</em> installed in your system, then you need to install it (preferably, through the terminal). If you’re on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS), you can use <em>dnf</em>:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo dnf install git-all
+</code></pre></div></div>
+<p>If you’re on a Debian-based distribution, such as Ubuntu, use <em>apt</em>:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt install git-all
+</code></pre></div></div>
+
+<p>After you are done installing <em>git</em>, verify your installation using the command mentioned earlier: <em>git –version</em></p>
+
+<p>If you reached to this point, you are ready to start. Let’s start with setting up your <em>Git</em> account in your computer system.</p>
+
+<p>Open a terminal/shell and type:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git config --global user.name "Your name here"
+</code></pre></div></div>
+<p>Set up the email ID (use the email ID associated with your GitHub account):</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git config --global user.email "your_email@example.com" 
+</code></pre></div></div>
+<p>I also do:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git config --global color.ui true
+</code></pre></div></div>
+
+<h4 id="step-0-creating-the-first-project-repository"><strong>Step 0: Creating the first project repository</strong></h4>
+
+<p>It is convenient to use the browser to create a repository(‘repo’ for short) under your GitHub account. Visit the <a href="https://help.github.com/en/enterprise/2.14/user/articles/creating-a-new-repository">official help document</a> which is very well explained. However, make sure whether you want to make the repo <em>Private</em> or <em>Public</em>. As the word suggests, making a repo <em>Private</em> will make the repo inaccessible to others. Only the account owner can do modification to the repo.</p>
+
+<p>Additionally, I would prefer to add a <em>README</em> along with the repo (the file will be stored as <em>README.md</em>; <em>.md</em> stands for <em>markdown language or extension</em>). This is nothing but a file that contains useful “readme” type information regarding the repo.</p>
+
+<p>Further, a <em>.gitignore</em> should also be added. This stands for a set of ignore rules. This allows you to list directories or files or extensions that should be ignored to be put into the online GitHub repo page. However, those ignored directories/files will sit inside your machine’s work directories. For example, you have written a program that generates two temp files (<em>temp1.txt</em> and <em>temp2.txt</em>), and you think that this is not useful to be kept inside the repo: then you can ignore these two files by listing them inside <em>.gitignore</em> as:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>temp*.txt
+</code></pre></div></div>
+
+<p>The next step starts the version control job. Just follow the following steps.</p>
+
+<h4 id="step-1-cloning-the-repo-into-your-system"><strong>Step 1: Cloning the repo into your system</strong></h4>
+
+<p>To get the repo as a directory inside your system, you need to <em>clone</em> it. Go to your preferable directory inside your system via your <em>terminal</em>. Now, navigate to the main page of the repository and follow the instruction to get the cloning link. The cloning link looks like the following:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+</code></pre></div></div>
+<p>Let’s use an exemplary name:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://github.com/user.name/newrepo.git
+</code></pre></div></div>
+
+<p>Now, use the terminal to clone this into your system:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git clone https://github.com/user.name/newrepo.git
+</code></pre></div></div>
+<p>The terminal will show you the cloning outputs as follows:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&gt; Cloning into `newrepo`...
+&gt; remote: Counting objects: 5, done.
+&gt; remote: Compressing objects: 100% (3/3), done.
+&gt; remove: Total 5 (delta 1), reused 5 (delta 1)
+&gt; Unpacking objects: 100% (5/5), done.
+</code></pre></div></div>
+<p>(The above is for demo purpose only.)</p>
+
+<h4 id="step-2-work"><strong>Step 2: Work</strong></h4>
+
+<p>The above step will create a new directory named <em>newrepo</em> under your present working directory. You are free to treat this as any other directory and keep working. Happy coding!</p>
+
+<p>If you think, you should post the new works back to the GitHub repo online; you can following the following steps.</p>
+
+<h4 id="step-21-git-status-check-optional-yet-useful-step"><strong>Step 2.1: Git status check (optional-yet-useful step)</strong></h4>
+
+<p>Additionally, you may want to check what are the new modifications done.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git status
+</code></pre></div></div>
+
+<h4 id="step-3-and-4-add-and-commit-changes"><strong>Step 3 and 4: Add and commit changes</strong></h4>
+
+<p>You will use the add and commit functions to add and commit changes that you have made to your repo.</p>
+
+<ol>
+  <li><em>git add</em>: It takes a modified file in your working directory and places the modified version in a staging area. The staging area is like an intermediate storage.</li>
+  <li><em>git commit</em>: It takes everything from the staging area and makes a permanent snapshot of the current state of your repository that is associated with a unique identifier.</li>
+</ol>
+
+<p>The overall process looks like this:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>WORKING DIRECTORY ----(git add)----&gt; STAGING AREA ----(git commit)----&gt; GIT REPO
+</code></pre></div></div>
+
+<p><strong>Add files</strong></p>
+
+<p>You have the flexibility to add a single file or a group of files to the staging area. To add a single file, use</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git add &lt;filename with extension&gt;
+</code></pre></div></div>
+<p>For example:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git add README.md
+</code></pre></div></div>
+<p>To add all the files in your directory, use:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git add --all
+</code></pre></div></div>
+<p>Use git add –all with caution. You do not want to add things like credential files accidentally, .DS_Store files, or history files. Make sure these are included in the <em>.gitignore</em> rule.</p>
+
+<p><strong>Commit files</strong></p>
+
+<p>Once you are ready to create a snapshot of the current state of your repository, you can use git commit. The git commit command requires a commit message that describes the snapshot/changes that you made in that commit.</p>
+
+<p>A commit message should be short and informative enough. This will help you as well as your collaborators or others. An example of a commit message is: <em>added new arguments to myfoo()</em>. Example of a commit command with a short message:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git commit -m "added new arguments to myfoo()"
+</code></pre></div></div>
+<p>Alternatively, if you want to explain your commits in multiline, you do so using an editor.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git commit
+</code></pre></div></div>
+<p>This will use the default editor (in my case, <em>vi</em> or <em>nano</em>). If you prefer some other editor like <em>emacs</em>, you need to set it up for use by Git:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git config --global core.editor emacs
+</code></pre></div></div>
+<p>After you’ve made a few commits, check out the output of the git log command where you will be able to see the history of your repository, including all of the commit messages. This step is <strong>optional</strong></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git log
+</code></pre></div></div>
+
+<h4 id="step-5-now-the-big-step-pushing-the-repo-online"><strong>Step 5: Now the BIG step (Pushing the repo online)</strong></h4>
+
+<p>You can push your changes to GitHub online account with:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ git push
+</code></pre></div></div>
+<p>You will be prompted to enter the username and password of your GitHub account. Make sure that you enter those correctly. Don’t worry if it gets typed wrong. It won’t push. But, your commit is still there. So you need to type the command <em>git push again</em>.</p>
+
+<p>This will show you all the stories that follow. After successfully pushed, you can check them online and you will feel happy. Welcome to the world of <strong><em>Git and GitHub</em></strong>.</p>
+
+<h4 id="references">References</h4>
+
+<p>The following references were helpful while creating this article.</p>
+
+<ol>
+  <li><a href="https://kbroman.org/github_tutorial/pages/first_time.html">Your fist time with Git and Github</a> (accessed January 2020)</li>
+  <li><a href="https://www.earthdatascience.org/workshops/intro-version-control-git/basic-git-commands/">First step with Git</a> (accessed January 2020)</li>
+</ol>
+
+
+  </article>
+
+  
+
+</div>
+
+      </div>
+    </div>
+
+    <footer>
+
+  <div class="wrapper">
+    &copy; Copyright 2021 Tirtharaj Dash.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+    
+        Last updated: Jun 15, 2021.
+    
+  </div>
+
+</footer>
+
+
+    <!-- Load jQuery -->
+<script src="//code.jquery.com/jquery-1.12.4.min.js"></script>
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+
+<!-- Load KaTeX -->
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js"></script>
+<script src="/assets/js/katex.js"></script>
+
+
+
+
+<!-- Include custom icon fonts -->
+<link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+<link rel="stylesheet" href="/assets/css/academicons.min.css">
+
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-174690207-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+
+
+  </body>
+
+</html>
