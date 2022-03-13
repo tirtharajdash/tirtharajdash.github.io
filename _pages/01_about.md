@@ -1,6 +1,7 @@
 ---
 layout: about
-title: <strong>Tirtharaj</strong> Dash
+title: about
+#<strong>Tirtharaj</strong> Dash
 permalink: /
 subtitle: Assistant Professor (Gr-II) & Doctoral Researcher in Machine Learning
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
