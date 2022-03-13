@@ -1,18 +1,40 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Srinivasan":
+  - firstname: ["Ashwin", "A."]
+    url: https://www.bits-pilani.ac.in/goa/ashwin/profile
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Vig":
+  - firstname: ["Lovekesh", "L."]
+    url: https://sites.google.com/site/lovekeshhome/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Hebbalaguppe":
+  - firstname: ["Ramya", "R."]
+    url: https://scholar.google.com/citations?hl=en&user=IJjnjZIAAAAJ
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Behera":
+  - firstname: ["H.S.", "Himanshu Sekhar", "H. S."]
+    url: http://vssut.ac.in/faculty-profile.php?furl=h.s.behera
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Khilar":
+  - firstname: ["P.M.", "Pabitra Mohan", "P. M."]
+    url: https://www.nitrkl.ac.in/FProfile.aspx?pmkhilar
+
+"Mondal":
+  - firstname: ["Sukanta", "S."]
+    url: https://universe.bits-pilani.ac.in/goa/suku/profile
+
+"Abraham":
+  - firstname: ["Ajith", "A."]
+    url: https://www.mirlabs.org/researchers/Ajith%20Abraham.php
+
+"King":
+  - firstname: ["Ross D.", "R.D.", "R. D.", "Ross Donald"]
+    url: https://en.wikipedia.org/wiki/Ross_D._King
+
+"Shroff":
+  - firstname: ["Gautam", "G."]
+    url: https://scholar.google.co.in/citations?user=f70Rc2wAAAAJ&hl=en
+
+"Sahu":
+  - firstname: ["Prabhat Kumar", "Prabhat K.", "P.K.", "P. K."]
+    url: http://www.suniv.ac.in/faculty-profile.php?furl=dr.prabhat-k.sahu
+ 
