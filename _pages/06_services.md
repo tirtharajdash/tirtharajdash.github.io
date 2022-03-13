@@ -3,6 +3,7 @@ layout: page
 permalink: /services/
 title: services
 description: Professional services
+nav: true
 ---
 
 **Professional services**
