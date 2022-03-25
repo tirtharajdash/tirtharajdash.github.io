@@ -2,7 +2,7 @@
 layout: page
 permalink: /services/
 title: services
-description: Professional services
+description: Professional services viz. reviewing for journals, conferences, etc.
 nav: true
 ---
 
@@ -40,7 +40,7 @@ nav: true
 - Member of program committee, <a rel="external nofollow" href="https://ijcai-22.org/" target="_blank">IJCAI-ECAI</a>: 2022
 - Member of program committee, <a rel="external nofollow" href="https://www.dasfaa2022.org/" target="_blank">DASFAA</a>: 2022
 - Member of program committee, <a rel="external nofollow" href="https://clear-workshop.github.io/" target="_blank">AAAI-CLeaR</a>: 2022
-- Member of technical committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ijcnn/index" target="_blank">IJCNN</a>: 2019, 2020, 2021, 2022
-- Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/icann/" target="_blank">ICANN</a>: 2019, 2020, 2021
+- Member of technical committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ijcnn/index" target="_blank">IJCNN</a>: 2019--2022
+- Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/icann/" target="_blank">ICANN</a>: 2019--2021
 - Member of program committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ilp/" target="_blank">ILP</a>: 2019
 - Member of organizing committee, ICCI: 2017 (IIT Kanpur)
