@@ -7,8 +7,16 @@
     gtag('js', new Date());
     gtag('config', '{{ site.google_analytics }}');
   </script>
-  {%- endif -%}
-  {%- if site.enable_panelbear_analytics -%}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga4_analytics }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.ga4_analytics }}');
+  </script>
+{%- endif -%}
+{%- if site.enable_panelbear_analytics -%}
   <!-- Panelbear Analytics - We respect your privacy -->
   <script async src="https://cdn.panelbear.com/analytics.js?site={{site.panelbear_analytics}}"></script>
   <script>
