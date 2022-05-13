@@ -3,7 +3,7 @@ layout: about
 title: about
 #<strong>Tirtharaj</strong> Dash
 permalink: /
-subtitle: Assistant Professor (Gr-II) 
+subtitle: Assistant Professor (Grade-II), Dept. of CS & IS and APPCAIR, BITS Pilani, Goa Campus
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
