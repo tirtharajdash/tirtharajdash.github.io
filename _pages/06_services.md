@@ -20,6 +20,7 @@ nav: true
 - <a rel="external nofollow" href="https://ieeeaccess.ieee.org/" target="_blank">IEEE Access</a>
 - Information Fusion (<a rel="external nofollow" href="https://www.sciencedirect.com/journal/information-fusion/" target="_blank">INFFUS</a>)*
 - Cognitive Systems Research (<a rel="external nofollow" href="https://www.journals.elsevier.com/cognitive-systems-research" target="_blank">COGSYS</a>)* 
+- Frontiers in Neuroscience (<a rel="external nofollow" href="https://www.frontiersin.org/journals/neuroscience" target="_blank">Front. Neurosci.</a>)
 - Soft Computing (<a rel="external nofollow" href="https://www.springer.com/journal/500" target="_blank">SOCO</a>)
 - Computers & Security (<a rel="external nofollow" href="https://www.journals.elsevier.com/computers-and-security" target="_blank">COSE</a>) 
 - Computer Methods and Programs in Biomedicine (<a rel="external nofollow" href="https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine" target="_blank">CMPB</a>) 
