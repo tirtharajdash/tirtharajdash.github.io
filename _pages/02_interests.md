@@ -13,16 +13,25 @@ nav: true
 Neural Networks has had a long and rich history, and the reincarnated viewpoint has shifted towards “Deep Neural Networks” and “Deep Learning”. Deep learning and its ever-evolving implementations have been achieving remarkable successes in subareas of science and technology. I am inclined towards conceptual and implementational aspects of deep learning for problems arising in biology, chemistry, computer vision, robotics and games. This includes: deep learning for structured- and unstructured-data, transfer learning, model compression, adversarial learning, deep reinforcement learning.
 
 
-*Neuro-Symbolic Machine Learning*
+*Neuro-Symbolic Learning*
 
 Neural networks can learn from non-symbolic or structured data, and they are found to be robust to noise. However, they suffer from two important issues: their learning is severely affected if data is scarce; they are not interpretable. Whereas, symbolic machine learning models are very data efficient and interpretable. Neuro-symbolic models exploit the advantages of neural networks and symbolic models. My research focus in this area is a combination of deep neural networks and Inductive Logic Programming (ILP).
 
 
-*Applied Machine Learning*
+*Graph Representation Learning*
+
+Graph neural networks have shown tremendous potential in learning from relational data or graph-structured data. I am interested in conceptual and implementational development of graph-convolution and graph-pooling procedures. Further, I am very motivated to involve myself in the evolving areas of "Geometric Deep Learning".
+
+
+*Machine Learning for Science*
 
 I am interested in the development of machine learning and deep learning systems to address specific learning problems, primarily in the area of health, medicines, drug discovery, computational biology. A learning problem can be characterised by observations comprised of either input-output pairs (supervised learning) or only inputs (unsupervised learning). I am mostly interested in solving problems arising in biology, chemistry, internet-of-things (IoT), and finance. I also like exploring applications of stochastic (and evolutionary) optimisation to machine learning.
 
-In future, there will be a website for my lab: <a href="https://github.com/iMachLab" target="_blank">iMachLab</a>.
+<br/>
+
+**Collaboration**
+
+I am looking forward to new problems and research discussions. I am happy to collaborate, if there is any shared interest. In future, there will be a website for my lab: <a href="https://github.com/iMachLab" target="_blank">iMachLab</a>.
 
 <br/>
 
