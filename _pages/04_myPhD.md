@@ -36,7 +36,7 @@ This thesis is concerned with techniques for inclusion of domain-knowledge into 
 * <a href="/myphd/Bibliography.pdf" target="_blank">Bibliography</a> 
 * <a href="/myphd/Back_matter.pdf" target="_blank">Back matter</a> 
 
-The final thesis is <a href="/myphd/PhD_Thesis_Final.pdf" target="_blank">here</a>, and the slide deck for my defence are <a href="/myphd/FinalTalk_July2022.pdf" target="_blank">here</a>.
+The final thesis is <a href="/myphd/PhD_Thesis_Final.pdf" target="_blank">here</a>, and the slide deck of my defence seminar are <a href="/myphd/FinalTalk_July2022.pdf" target="_blank">here</a>.
 
 ##### Reviews
 
@@ -45,7 +45,7 @@ I sincerely thank the thesis examiners for their thorough evaluation of my thesi
 <a rel="external nofollow" href="https://scholar.google.co.in/citations?user=llF8XbMAAAAJ&hl=en" target="_blank">Sriraam Natarajan</a>, University of Texas at Dallas  
 <a rel="external nofollow" href="https://scholar.google.cz/citations?user=gt3emoEAAAAJ&hl=en" target="_blank">Filip Zelezny</a>, Czech Technical University in Prague
 
-###### Some excerpts from the reviews
+###### Some excerpts from the reviews:
 
 * *"I truly like this fantastic thesis. It is original, addresses several important tasks, and moves the applicability of the field of ... into new directions rarely seen before by the field."*
 
