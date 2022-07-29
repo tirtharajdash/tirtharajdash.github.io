@@ -1,15 +1,18 @@
 ---
 layout: page
 permalink: /myPhD/
-title: myPhD
+title: phd
 description: Details about my PhD (research, thesis, its evaluation, and its impact)
 nav: true
 ---
 
-## Inclusion of Symbolic Domain-Knowledge into Deep Neural Networks
+### Inclusion of Symbolic Domain-Knowledge into Deep Neural Networks
 
-| Supervisor    |:| <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a> |
-| Co-supervisor |:| <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/suku/profile" target="_blank">Sukanta Mondal</a> |
+Tirtharaj Dash, BITS Pilani, Goa Campus
+<br/>
+
+Superviser: <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a>, Senior Professor, BITS Pilani, Goa Campus  
+Co-superviser: <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/suku/profile" target="_blank">Sukanta Mondal</a>, Associate Professor, BITS Pilani, Goa Campus
 
 
 ### Abstract
@@ -18,22 +21,22 @@ This thesis is concerned with techniques for inclusion of domain-knowledge into 
 
 ### Thesis Organisation
 
-| Front matter   	| <a href="/myphd/Front_matter.pdf" target="_blank">open</a> |
-| Acknowledgement	| <a href="/myphd/Acknowledgement.pdf" target="_blank">open</a> |
-| Abstract 			| <a href="/myphd/Abstract.pdf" target="_blank">open</a> |
-| ToC\_LoF\_LoA  	| <a href="/myphd/ToC_LoF_LoA.pdf" target="_blank">open</a> |
-| Chapter 1			| <a href="/myphd/Chapter1.pdf" target="_blank">open</a> |
-| Chapter 2			| <a href="/myphd/Chapter2.pdf" target="_blank">open</a> |
-| Chapter 3			| <a href="/myphd/Chapter3.pdf" target="_blank">open</a> |
-| Chapter 4			| <a href="/myphd/Chapter4.pdf" target="_blank">open</a> |
-| Chapter 5			| <a href="/myphd/Chapter5.pdf" target="_blank">open</a> |
-| Chapter 6			| <a href="/myphd/Chapter6.pdf" target="_blank">open</a> |
-| Chapter 7			| <a href="/myphd/Chapter7.pdf" target="_blank">open</a> |
-| Appendices		| <a href="/myphd/Appendices.pdf" target="_blank">open</a> |
-| Bibliography		| <a href="/myphd/Bibliography.pdf" target="_blank">open</a> |
-| Back matter		| <a href="/myphd/Back_matter.pdf" target="_blank">open</a> |
+* <a href="/myphd/Front_matter.pdf" target="_blank">Front matter</a> 
+* <a href="/myphd/Acknowledgement.pdf" target="_blank">Acknowledgement</a> 
+* <a href="/myphd/Abstract.pdf" target="_blank">Abstract</a> 
+* <a href="/myphd/ToC_LoF_LoA.pdf" target="_blank">ToC\_LoF\_LoA</a> 
+* <a href="/myphd/Chapter1.pdf" target="_blank">Chapter 1</a> 
+* <a href="/myphd/Chapter2.pdf" target="_blank">Chapter 2</a> 
+* <a href="/myphd/Chapter3.pdf" target="_blank">Chapter 3</a> 
+* <a href="/myphd/Chapter4.pdf" target="_blank">Chapter 4</a> 
+* <a href="/myphd/Chapter5.pdf" target="_blank">Chapter 5</a> 
+* <a href="/myphd/Chapter6.pdf" target="_blank">Chapter 6</a> 
+* <a href="/myphd/Chapter7.pdf" target="_blank">Chapter 7</a> 
+* <a href="/myphd/Appendices.pdf" target="_blank">Appendices</a> 
+* <a href="/myphd/Bibliography.pdf" target="_blank">Bibliography</a> 
+* <a href="/myphd/Back_matter.pdf" target="_blank">Back matter</a> 
 
-The complete thesis can be found <a href="/myphd/PhD_Thesis_Final.pdf" target="_blank">here</a> and the final set of the slides that I used for my defence are available <a href="/myphd/FinalTalk_July2022.pdf" target="_blank">here</a>.
+The final thesis is <a href="/myphd/PhD_Thesis_Final.pdf" target="_blank">here</a>, and the slide deck for my defence are <a href="/myphd/FinalTalk_July2022.pdf" target="_blank">here</a>.
 
 ### Reviews
 
