@@ -8,7 +8,7 @@ subtitle: Assistant Professor (Grade-II), Dept. of CS & IS and APPCAIR, BITS Pil
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   address: >
     <p>D-168</p>
     <p>BITS Pilani, Goa Campus</p>
