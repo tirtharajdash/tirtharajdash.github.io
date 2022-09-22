@@ -3,14 +3,14 @@ layout: about
 title: about
 #<strong>Tirtharaj</strong> Dash
 permalink: /
-subtitle: Assistant Professor (Grade-II), Dept. of CS & IS and APPCAIR, BITS Pilani, Goa Campus
+subtitle: Postdoctoral Scholar, University of California San Diego
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic2.jpg
   address: >
-    #<p>D-168,</p>
+	<p>Boolean Lab</p>
     <p>UC San Diego</p>
     <p>La Jolla, CA 92093</p>
 
