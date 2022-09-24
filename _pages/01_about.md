@@ -10,7 +10,7 @@ profile:
   align: right
   image: prof_pic2.jpg
   address: >
-    <p>Boolean Lab, UC San Diego,</p>
+    <p>CSE4228, UC San Diego,</p>
     <p>La Jolla, CA 92093</p>
 
 news: true  # includes a list of news items
