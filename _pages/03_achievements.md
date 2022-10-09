@@ -6,6 +6,8 @@ description: Some selected achievements that I like to show off.
 nav: true
 ---
 
+**2022**&nbsp;&nbsp;&nbsp; Best Short Paper Award from the ACM in <a rel="external nofollow" href="https://dl.acm.org/doi/10.1145/3476883.3520216" target="_blank">ACMSE 2022</a>.
+
 **2021**&nbsp;&nbsp;&nbsp; Selected for the <a rel="external nofollow" href="https://icml.cc/virtual/2021/workshop/8366" target="_blank">ICML 2021 Workshop on Computational Biology Fellowship</a>.
 
 **2021**&nbsp;&nbsp;&nbsp; Selected to participate at the <a rel="external nofollow" href="https://sites.google.com/view/graduatesymposium2021" target="_blank">Google Research India Graduate Symposium</a>.
