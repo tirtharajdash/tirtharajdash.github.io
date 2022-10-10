@@ -15,12 +15,13 @@ Neural Networks has had a long and rich history, and the reincarnated viewpoint 
 
 *Neuro-Symbolic Learning*
 
-Neural networks can learn from non-symbolic or structured data, and they are found to be robust to noise. However, they suffer from two important issues: their learning is severely affected if data is scarce; they are not interpretable. Whereas, symbolic machine learning models are very data efficient and interpretable. Neuro-symbolic models exploit the advantages of neural networks and symbolic models. My research focus in this area is a combination of deep neural networks and Inductive Logic Programming (ILP).
+Neural networks can learn from non-symbolic or structured data, and they are found to be robust to noise. However, they suffer from two important issues: their learning is severely affected if data is scarce; they are not interpretable. Whereas, symbolic machine learning models are very data efficient and interpretable. Neuro-symbolic models exploit the advantages of neural networks and symbolic models. My research focus in this area is a combination of deep neural networks and Inductive Logic Programming (ILP). Follow some of my works here:
+<a rel="external nofollow" href="https://github.com/tirtharajdash/NeSy" target="_blank">NeSy</a>.
 
 
 *Graph Representation Learning*
 
-Graph neural networks have shown tremendous potential in learning from relational data or graph-structured data. I am interested in conceptual and implementational development of graph-convolution and graph-pooling procedures. Further, I am very motivated to involve myself in the evolving areas of "Geometric Deep Learning".
+Graph neural networks or GNNs have shown tremendous potential in learning from relational data or graph-structured data. I am interested in conceptual and implementational development of graph-convolution and graph-pooling procedures. Further, I am very motivated to involve myself in the evolving areas of "Geometric Deep Learning". If you are new to the world of GNNs, you may want to go through these <a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/AISymp22_GNNs.pdf" target="_blank">introductory slides on GNNs</a>.
 
 
 *Machine Learning for Science*
@@ -37,7 +38,7 @@ I am looking forward to new problems and research discussions. I am happy to col
 
 **Teaching**
 
-I love teaching any course that is in line with my present research interests: Deep Learning, Machine Learning, Artificial Intelligence. In the past, I have always enjoyed teaching programming (mostly in C or C++) to first-year undergrad students. A course on data structure and algorithms has always been my crush in my short teaching life. I have taught database systems (including labs on MySQL) and would like to teach if I have to.
+I love teaching any course that is in line with my present research interests: Deep Learning, Machine Learning, Artificial Intelligence. In the past, I have always enjoyed teaching programming (mostly in C or C++) to first-year undergrad students. A course on data structure and algorithms has always been my crush in my short teaching life. I have taught database systems (including labs on MySQL) and would like to teach again if I have to, but with a flavour of relational learning.
  
 <br/>
 
