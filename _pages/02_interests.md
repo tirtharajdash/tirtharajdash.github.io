@@ -32,10 +32,10 @@ I am interested in the development of machine learning and deep learning systems
 
 **Upcoming Conference Deadlines**
 
-- < a rel="external nofollow" href="https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM" target="_blank">aideadlin.es</a>
-- < a rel="external nofollow" href="https://www.acm.org/upcoming-conferences" target="_blank">ACM Conferences</a>
-- < a rel="external nofollow" href="https://research.com/upcoming-conferences/computer-science/machine-learning" target="_blank">research.com</a>
-- < a rel="external nofollow" href="https://deadlines.info/?sub=ML,CV,CG,NLP,RO,SP,DM,APL&ranking=A,B,C,D,NA" target="_blank">deadlines.info</a>
+- <a rel="external nofollow" href="https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM" target="_blank">aideadlin.es</a>
+- <a rel="external nofollow" href="https://www.acm.org/upcoming-conferences" target="_blank">ACM Conferences</a>
+- <a rel="external nofollow" href="https://research.com/upcoming-conferences/computer-science/machine-learning" target="_blank">research.com</a>
+- <a rel="external nofollow" href="https://deadlines.info/?sub=ML,CV,CG,NLP,RO,SP,DM,APL&ranking=A,B,C,D,NA" target="_blank">deadlines.info</a>
 
 <br/>
 
