@@ -21,14 +21,24 @@ Neural networks can learn from non-symbolic or structured data, and they are fou
 
 *Graph Representation Learning*
 
-Graph neural networks or GNNs have shown tremendous potential in learning from relational data or graph-structured data. I am interested in conceptual and implementational development of graph-convolution and graph-pooling procedures. Further, I am very motivated to involve myself in the evolving areas of "Geometric Deep Learning". If you are new to the world of GNNs, you may want to go through these <a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/AISymp22_GNNs.pdf" target="_blank">introductory slides on GNNs</a>.
+Graph neural networks or GNNs have shown tremendous potential in learning from relational data or graph-structured data. I am interested in conceptual and implementational development of graph-convolution and graph-pooling procedures. Further, I am very motivated to involve myself in the evolving areas of "Geometric Deep Learning". If you are new to the world of GNNs, you may want to go through these introductory slides on <a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/AISymp22_GNNs.pdf" target="_blank">GNNs</a>.
 
 
 *Machine Learning for Science*
 
-I am interested in the development of machine learning and deep learning systems to address specific learning problems, primarily in the area of health, medicines, drug discovery, computational biology. A learning problem can be characterised by observations comprised of either input-output pairs (supervised learning) or only inputs (unsupervised learning). I am mostly interested in solving problems arising in biology, chemistry, internet-of-things (IoT), and finance. I also like exploring applications of stochastic (and evolutionary) optimisation to machine learning.
+I am interested in the development of machine learning and deep learning systems to address specific learning problems, primarily in scientific areas such as healthcare, medicines, drug discovery, computational biology. In the past, I have also worked on solving problems arising in other research areas such as internet-of-things (IoT), computer networks and finance (time-series analysis). Furthermore, I also like exploring applications of stochastic (and evolutionary) optimisation to machine learning. I am open to discuss and collaborate on any other interesting areas or research problems.
 
 <br/>
+
+**Upcoming Conference Deadlines**
+
+- < a rel="external nofollow" href="https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM" target="_blank">aideadlin.es</a>
+- < a rel="external nofollow" href="https://www.acm.org/upcoming-conferences" target="_blank">ACM Conferences</a>
+- < a rel="external nofollow" href="https://research.com/upcoming-conferences/computer-science/machine-learning" target="_blank">research.com</a>
+- < a rel="external nofollow" href="https://deadlines.info/?sub=ML,CV,CG,NLP,RO,SP,DM,APL&ranking=A,B,C,D,NA" target="_blank">deadlines.info</a>
+
+<br/>
+
 
 **Collaboration**
 
