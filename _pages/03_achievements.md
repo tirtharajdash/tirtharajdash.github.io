@@ -37,3 +37,5 @@ nav: true
 **2013/14**&nbsp;&nbsp;&nbsp; Participated in the Regional Round of the <a rel="external nofollow" href="https://icpc.global/" target="_blank">ACM ICPC</a>
 
 **2013**&nbsp;&nbsp;&nbsp; Institute Silver Medal for Best Graduate in Information Technology
+
+**2008-12**&nbsp;&nbsp;&nbsp; Director's Certificates for Academic Performances during B.Tech.
