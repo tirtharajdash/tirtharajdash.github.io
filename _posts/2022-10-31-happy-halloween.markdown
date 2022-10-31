@@ -21,7 +21,9 @@ For those who read this blog and reached this sentence, if you ever felt or feel
 Wishing you a lot of fun and yummy treats. Happy Halloween!
 
 From:
+\
 T
+\
 San Diego, CA
 
 
