@@ -6,7 +6,7 @@ description: Courses that I have taught in the past or I am teaching at present.
 nav: true
 ---
 
-At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani</a> (2015 - present):
+At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani</a> (2015 - 2022):
 
 *Courses marked with '\*' are the ones that I have taught at least for 4 semesters. My duty for each course is either as Instructor-in-Charge (IC) or as Instructor (IN). IC has additional administrative responsibilities concerning the course.*
 
