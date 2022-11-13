@@ -36,7 +36,7 @@ At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerSc
 
 *Additionally, I have been involved in formulating new courses for the institute:*
 
- - Deep Learning (CS F425: see <a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F425_Deep-Learning" target="_blank">version 1</a>)
+ - Deep Learning (CS F425: see <a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F425_Deep-Learning#theory-materials" target="_blank">version 1</a>)
 
 <br/>
 
