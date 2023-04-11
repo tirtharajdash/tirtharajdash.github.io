@@ -46,4 +46,6 @@ I sincerely thank the thesis examiners for their thorough evaluation of my thesi
 
 * *"In general, the author has made significant contributions to the problem, ... to the field of neural-symbolic integration and relational learning."*
 
+##### Accolades
 
+I won the **Best PhD Thesis Award** from my university. 
