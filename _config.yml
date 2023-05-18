@@ -57,7 +57,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: tirtharajdash
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: tirtharajdash
+linkedin_username: #tirtharajdash
 scholar_userid: ktISUUIAAAAJ
 orcid_id: 0000-0001-5965-8286
 medium_username: # your Medium username
@@ -68,7 +68,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
+dblp_url: 131/6724
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
