@@ -68,7 +68,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: 1316724
+dblp_url: https://dblp.org/pid/131/6724
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
@@ -161,9 +161,9 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path:            "assets/**/*.*"
+      path: "assets/**/*.*"
     values:
-      sitemap:         false
+      sitemap: true
 # Extras
 github: [metadata]
 
