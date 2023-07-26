@@ -5,7 +5,7 @@ date:   2023-05-11 04:01:00
 description: Short poems from her pen.
 ---
 
-*These are some short poems and feelings scribbled by my sister, Shraddhanjali Dash.*
+*These are some short poems and feelings scribbled by my sister, Shraddhanjali Dash. These poems are in Odia. Both of us are working together to translate these to English.*
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
