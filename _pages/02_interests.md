@@ -8,12 +8,14 @@ nav: true
 
 **Research**
 
+(I need to update this page soon; keep watching!)
+
 *Deep Learning*
 
 Neural Networks has had a long and rich history, and the reincarnated viewpoint has shifted towards “Deep Neural Networks” and “Deep Learning”. Deep learning and its ever-evolving implementations have been achieving remarkable successes in subareas of science and technology. I am inclined towards conceptual and implementational aspects of deep learning for problems arising in biology, chemistry, computer vision, robotics and games. This includes: deep learning for structured- and unstructured-data, transfer learning, model compression, adversarial learning, deep reinforcement learning.
 
 
-*Neuro-Symbolic Learning*
+*Neuro-Symbolic AI*
 
 Neural networks can learn from non-symbolic or structured data, and they are found to be robust to noise. However, they suffer from two important issues: their learning is severely affected if data is scarce; they are not interpretable. Whereas, symbolic machine learning models are very data efficient and interpretable. Neuro-symbolic models exploit the advantages of neural networks and symbolic models. My research focus in this area is a combination of deep neural networks and Inductive Logic Programming (ILP). Follow some of my works here:
 <a rel="external nofollow" href="https://github.com/tirtharajdash/NeSy" target="_blank">NeSy</a>.
