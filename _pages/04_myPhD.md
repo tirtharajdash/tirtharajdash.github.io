@@ -21,7 +21,7 @@ This thesis is concerned with techniques for inclusion of domain-knowledge into 
 
 ##### Thesis
 
-The final thesis is <a href="/myphd/PhD_Thesis_Final.pdf" target="_blank">here</a>, and the slide deck of my defence seminar is <a href="/myphd/FinalTalk_July2022.pdf" target="_blank">here</a>.
+The final thesis is <a href="/myphd/PhD_Thesis_Final.pdf" target="_blank">here</a>, and the slide deck of my defence seminar is <a href="/myphd/FinalTalk_July2022.pdf" target="_blank">here</a>. Shodhganga page of the thesis can be accessed <a rel="external nofollow" href="http://hdl.handle.net/10603/472846" target="_blank">here</a>.
 
 ##### Reviews
 
