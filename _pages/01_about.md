@@ -10,8 +10,7 @@ profile:
   align: right
   image: prof_pic2.jpg
   address: >
-    <p>SB Lab, First Floor</p>
-    <p>CRUK-CI</p>
+    <p>SB Lab, CRUK-CI</p>
     <p>University of Cambridge</p>
     <p>Cambridge CB2 0RE, UK</p>
  
