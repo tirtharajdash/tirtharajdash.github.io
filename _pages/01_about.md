@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-#<strong>Tirtharaj</strong> Dash
+#Tirtharaj <strong>Dash</strong>
 permalink: /
 subtitle: Research Associate, University of Cambridge, UK
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
