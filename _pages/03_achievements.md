@@ -6,6 +6,8 @@ description: Some selected achievements that I like to show off.
 nav: true
 ---
 
+**2024**&nbsp;&nbsp;&nbsp; Postdoctoral Affiliate of <a href="https://www.trin.cam.ac.uk/" target="_blank">Trinity College, Cambridge</a>.
+
 **2023**&nbsp;&nbsp;&nbsp; Best PhD Thesis Award from <a rel="external nofollow" href="https://universe.bits-pilani.ac.in/index.aspx" target="_blank">BITS Pilani, India</a>.
 
 **2022**&nbsp;&nbsp;&nbsp; Best Short Paper Award from the ACM in <a rel="external nofollow" href="https://dl.acm.org/doi/10.1145/3476883.3520216" target="_blank">ACMSE 2022</a>.
