@@ -4,7 +4,7 @@ title: about
 #Tirtharaj <strong>Dash</strong>
 permalink: /
 subtitle: Research Associate, University of Cambridge, UK
-subtitle1: Postdoctoral Affiliate of Trinity College, Cambridge
+othsubtitle: Postdoctoral Affiliate of Trinity College, Cambridge
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:

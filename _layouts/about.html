@@ -8,8 +8,7 @@ layout: default
           <h1 class="post-title">
            {% if site.title == "blank" -%}{{ site.first_name }} {{ site.middle_name }} <span class="font-weight-bold">{{ site.last_name }}</span>{%- else -%}{{ site.title }}{%- endif %}
           </h1>
-          <p class="desc">{{ page.subtitle }}</p>
-          <p class="desc">{{ page.subtitle1 }}</p>
+          <p class="desc">{{ page.subtitle }} {{ page.othsubtitle }}</p>
         </header>
 
         <article>
