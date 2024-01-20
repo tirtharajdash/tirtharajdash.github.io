@@ -9,7 +9,7 @@ othsubtitle: Postdoctoral Affiliate of Trinity College, Cambridge
 
 profile:
   align: right
-  image: prof_pic2.jpg
+  image: prof_pic3.jpg
   address: >
     <p>SB Lab, CRUK-CI</p>
     <p>University of Cambridge</p>
