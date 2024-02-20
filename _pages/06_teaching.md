@@ -15,6 +15,7 @@ I would like to teach the following courses:
  - Deep Learning
  - Neuro-Symbolic Learning
  - Machine Learning
+ - Theory of Large Language Models
  - AI for Health Sciences
  - Computational Biology
  - Learning from Relational Databases
