@@ -68,14 +68,16 @@ I contribute to research indirectly, by reviewing for journals and conferences. 
 
 *Journal Reviewer*
 
-(Frequent ones are marked '*', where I have reviewed at least 4 different full papers)
+(Frequent ones are marked '*', where I have reviewed at least 4 different full papers. I have now stopped reviewing for some of these journals due to: (a) quality of submissions, (b) too busy doing other things, (c) tired of incentive-less reviewing.)
 
 - IEEE Transactions on Industrial Electronics (<a rel="external nofollow" href="http://www.ieee-ies.org/pubs/transactions-on-industrial-electronics" target="_blank">TIE</a>)*
 - IEEE Transactions on Cybernetics (<a rel="external nofollow" href="https://www.ieeesmc.org/publications/transactions-on-cybernetics" target="_blank">CYB-IEEE</a>)*
 - Neural Processing Letters (<a rel="external nofollow" href="https://www.springer.com/journal/11063" target="_blank">NEPL</a>)*
 - IEEE Systems Journal (<a rel="external nofollow" href="https://ieeesystemsjournal.org/" target="_blank">IEEE-SJ</a>)
 - IEEE Transactions on Network Science and Engineering (<a rel="external nofollow" href="https://www.comsoc.org/publications/journals/ieee-tnse" target="_blank">TNSE</a>)
+- IEEE Consumer Electronics Magazine (<a rel="external nofollow" href="https://ctsoc.ieee.org/publications/ieee-consumer-electronics-magazine.html" target="_blank">CEMAG</a>)
 - <a rel="external nofollow" href="https://ieeeaccess.ieee.org/" target="_blank">IEEE Access</a>
+- <a rel="external nofollow" href="https://www.nature.com/sdata/journal-information" target="_blank">Scientific Data</a> (Nature)
 - Information Fusion (<a rel="external nofollow" href="https://www.sciencedirect.com/journal/information-fusion/" target="_blank">INFFUS</a>)*
 - Cognitive Systems Research (<a rel="external nofollow" href="https://www.journals.elsevier.com/cognitive-systems-research" target="_blank">COGSYS</a>)* 
 - Applied Soft Computing (<a rel="external nofollow" href="https://www.sciencedirect.com/journal/applied-soft-computing" target="_blank">ASOC</a>)
@@ -97,7 +99,8 @@ I contribute to research indirectly, by reviewing for journals and conferences. 
 
 *Conference Activities*
 
-- Member of program committee, <a rel="external nofollow" href="https://ijcai-23.org/" target="_blank">IJCAI-ECAI</a>: 2022--2023
+- Member of program committee, <a rel="external nofollow" href="https://ijcai-23.org/" target="_blank">IJCAI-ECAI</a>: 2022--2024
+- Member of program committee, <a rel="external nofollow" href="https://ijcai-23.org/" target="_blank">"AI for Social Good"@IJCAI</a>: 2023--2024
 - Member of program committee, <a rel="external nofollow" href="https://www.dasfaa2022.org/" target="_blank">DASFAA</a>: 2022
 - Member of program committee, <a rel="external nofollow" href="https://clear-workshop.github.io/" target="_blank">AAAI-CLeaR</a>: 2022
 - Member of technical committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ijcnn/index" target="_blank">IJCNN</a>: 2019--2023
@@ -117,4 +120,5 @@ Websites, I regularly visit:
 - <a rel="external nofollow" href="https://www.bhagavad-gita.org/" target="_blank">Srimad Bhagavad Gita</a>
 - <a rel="external nofollow" href="https://www.britannica.com/" target="_blank">Britanica</a>
 - <a rel="external nofollow" href="https://thebuddhistsociety.org/page/home" target="_blank">The Buddhist Society</a>
+- <a rel="external nofollow href="https://www.quantamagazine.org/" target="_blank">Quanta Magazine</a>
 - ...more to add 
