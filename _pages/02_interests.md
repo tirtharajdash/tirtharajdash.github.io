@@ -99,8 +99,8 @@ I contribute to research indirectly, by reviewing for journals and conferences. 
 
 *Conference Activities*
 
-- Member of program committee, <a rel="external nofollow" href="https://ijcai-23.org/" target="_blank">IJCAI-ECAI</a>: 2022--2024
-- Member of program committee, <a rel="external nofollow" href="https://ijcai-23.org/" target="_blank">"AI for Social Good"@IJCAI</a>: 2023--2024
+- Member of program committee, <a rel="external nofollow" href="https://ijcai-23.org/" target="_blank">IJCAI</a>: 2022--2024
+- Member of program committee, <a rel="external nofollow" href="https://ijcai-23.org/" target="_blank">AI for Social Good Track, IJCAI</a>: 2023--2024
 - Member of program committee, <a rel="external nofollow" href="https://www.dasfaa2022.org/" target="_blank">DASFAA</a>: 2022
 - Member of program committee, <a rel="external nofollow" href="https://clear-workshop.github.io/" target="_blank">AAAI-CLeaR</a>: 2022
 - Member of technical committee, <a rel="external nofollow" href="https://dblp.org/db/conf/ijcnn/index" target="_blank">IJCNN</a>: 2019--2023
@@ -120,5 +120,5 @@ Websites, I regularly visit:
 - <a rel="external nofollow" href="https://www.bhagavad-gita.org/" target="_blank">Srimad Bhagavad Gita</a>
 - <a rel="external nofollow" href="https://www.britannica.com/" target="_blank">Britanica</a>
 - <a rel="external nofollow" href="https://thebuddhistsociety.org/page/home" target="_blank">The Buddhist Society</a>
-- <a rel="external nofollow href="https://www.quantamagazine.org/" target="_blank">Quanta Magazine</a>
+- <a rel="external nofollow" href="https://www.quantamagazine.org/" target="_blank">Quanta Magazine</a>
 - ...more to add 
