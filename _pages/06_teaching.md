@@ -41,7 +41,7 @@ At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerSc
 
 <br/>
 
-At <a rel="external nofollow" href="https://www.nist.edu/" target="_blank">NIST</a> (2014 - 2015):
+At <a rel="external nofollow" href="https://www.nist.edu/" target="_blank">NIST, Berhampur</a> (2014 - 2015):
 
  - Analysis and Design of Algorithms (Theory and Labs)
  - Computers and Object Oriented Programming (Theory and Labs)
