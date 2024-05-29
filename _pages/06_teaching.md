@@ -22,7 +22,7 @@ I would like to teach the following courses:
 
 <br/>
 
-At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani</a> (2015 - 2022):
+At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani, Goa Campus</a> (2015 - 2022):
 
 *Courses marked with '\*' are the ones that I have taught at least for 4 semesters. My duty for each course is either as Instructor-in-Charge (IC) or as Instructor (IN). IC has additional administrative responsibilities concerning the course.*
 
