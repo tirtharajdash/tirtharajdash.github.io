@@ -29,4 +29,5 @@ I received a Master of Technology (M.Tech) degree in Computer Science from <a re
 
 I have worked as an Assistant Professor in the School of Computer Science at <a rel="external nofollow" href="http://www.nist.edu" target="_blank">NIST Berhampur</a> for over a year during 2014 - 2015. I have also worked as IASc-INSA-NASI Summer Research Fellow at <a rel="external nofollow" href="http://www.isical.ac.in/" target="_blank">ISI Kolkata</a>. I have qualified national-level competitive examinations such as <a rel="external nofollow" href="https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering" target="_blank">GATE</a> (twice) and <a rel="external nofollow" href="https://en.wikipedia.org/wiki/National_Eligibility_Test" target="_blank">UGC-NET</a>.
 
-Here is my semi-updated <a href="/vitae/TirtharajDash.pdf" target="_blank">CV</a>. *References are available upon request.*
+View: <a href="/vitae/TirtharajDash.pdf" target="_blank"><b>Curriculum Vitae</b></a> and <a href="https://scholar.google.com/citations?user=1ZcwKZEAAAAJ" target="_blank" rel="external nofollow"><b>Google Scholar Profile</b></a>.
+
