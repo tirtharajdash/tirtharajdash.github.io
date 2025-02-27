@@ -12,13 +12,20 @@ I would like to teach the following courses:
 
  - Graph Representation Learning
  - Geometric Deep Learning
- - Deep Learning
  - Neuro-Symbolic Learning
+ - Deep Learning
  - Machine Learning
  - Theory of Large Language Models
- - AI for Health Sciences
- - Computational Biology
  - Learning from Relational Databases
+ - Mathematical and Computational Biology
+ - Algorithms for Computational Biology
+ - AI for Healthcare and Medicine
+ 
+<br/>
+ 
+At <a rel="external nofollow" href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> (2024 - till date):
+
+ - Supervision: <a rel="external nofollow" href="https://www.natsci.tripos.cam.ac.uk/subject-information/part1b/math-comp-bio" target="_blank">Mathematical and Computational Biology</a>
 
 <br/>
 
