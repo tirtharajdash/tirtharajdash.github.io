@@ -11,7 +11,7 @@ profile:
   align: right
   image: prof_pic5.jpg
   address: >
-    <p>SB Lab, CRUK-CI</p>
+    <p>Susanne Bornelöv Lab</p>
     <p>University of Cambridge</p>
     <p>Cambridge CB2 0RE, UK</p>
  
