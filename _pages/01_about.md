@@ -13,7 +13,7 @@ profile:
   address: >
     <p>Susanne Bornelöv Lab</p>
     <p>University of Cambridge</p>
-    <p>Cambridge CB2 0RE, UK</p>
+    <p>Cambridge CB2 1GA, UK</p>
  
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
