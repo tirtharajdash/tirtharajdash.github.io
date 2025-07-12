@@ -25,7 +25,7 @@ I would like to teach the following courses:
  
 At <a rel="external nofollow" href="https://www.cam.ac.uk/" target="_blank">University of Cambridge</a> (2024 - till date):
 
- - Supervision: <a rel="external nofollow" href="https://www.natsci.tripos.cam.ac.uk/subject-information/part1b/math-comp-bio" target="_blank">Mathematical and Computational Biology</a>
+ - Supervision: <a rel="external nofollow" href="https://www.natsci.tripos.cam.ac.uk/subject-information/part1b/math-comp-bio" target="_blank">Mathematical and Computational Biology</a> (2024/25)
 
 <br/>
 
