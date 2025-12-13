@@ -45,25 +45,11 @@ I am available for research consultancy with industry partners working on AI app
 
 <br/>
 
-**Upcoming Conference Deadlines**
-
-- <a rel="external nofollow" href="https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM" target="_blank">aideadlin.es</a>
-- <a rel="external nofollow" href="https://www.acm.org/upcoming-conferences" target="_blank">ACM Conferences</a>
-- <a rel="external nofollow" href="https://research.com/upcoming-conferences/computer-science/machine-learning" target="_blank">research.com</a>
-- <a rel="external nofollow" href="https://deadlines.info/?sub=ML,CV,CG,NLP,RO,SP,DM,APL&ranking=A,B,C,D,NA" target="_blank">deadlines.info</a>
-
-<br/>
-
-
-**Collaboration**
-
-I am looking forward to new problems and research discussions. I am happy to collaborate, if there is any shared interest. In future, there will be a website for my lab: <a href="https://github.com/iMachLab" target="_blank">iMachLab</a>.
-
-<br/>
-
 **Teaching Interests**
 
-I love teaching any course that is in line with my present research interests: Deep Learning, Machine Learning, Artificial Intelligence. In the past, I have always enjoyed teaching programming (mostly in C or C++) to first-year undergrad students. A course on data structure and algorithms has always been my crush in my short teaching life. I have taught database systems (including labs on MySQL) and would like to teach again if I have to, but with a flavour of relational learning.
+I am passionate about teaching courses aligned with my research interests, particularly Deep Learning, Machine Learning, and Artificial Intelligence. Beyond advanced topics, I enjoy teaching foundational programming courses in C and C++ to first-year undergraduates, as well as Data Structures and Algorithms, which remains one of my favourite courses to teach. I have also taught Database Systems with hands-on MySQL labs and would be interested in teaching it again with an emphasis on relational learning approaches.
+
+Looking ahead, I would like to develop and teach courses on Graph Representation Learning, Geometric Deep Learning, Neuro-Symbolic Learning, Theory of Large Language Models, Learning from Relational Databases, Mathematical and Computational Biology, Algorithms for Computational Biology, and AI for Healthcare and Medicine.
  
 <br/>
 

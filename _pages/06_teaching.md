@@ -6,11 +6,7 @@ description: Courses that I have taught in the past or I am teaching at present.
 nav: true
 ---
 
-I would like to teach courses on Graph Representation Learning, Geometric Deep Learning, Neuro-Symbolic Learning, Deep Learning, Machine Learning, Theory of Large Language Models, Artificial Intelligence, Learning from Relational Databases, Data Structures and Algorithms, Mathematical and Computational Biology, Algorithms for Computational Biology, and AI for Healthcare and Medicine.
- 
-<br/>
-
-At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani, Goa Campus</a> (2025 - present):
+At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani, Goa Campus</a> (Dec 2025 - present):
 
  - Artificial Intelligence (CS F407): as **IN** (with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a>, Spring 2026)
  
@@ -22,7 +18,7 @@ At <a rel="external nofollow" href="https://www.cam.ac.uk/" target="_blank">Univ
 
 <br/>
 
-At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani, Goa Campus</a> (2015 - 2022):
+At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani, Goa Campus</a> (Aug 2015 - Aug 2022):
 
 *Courses marked with '\*' are the ones that I have taught at least for 4 semesters. My duty for each course is either as Instructor-in-Charge (IC) or as Instructor (IN). IC has additional administrative responsibilities concerning the course.*
 
@@ -40,7 +36,7 @@ At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerSc
 
 <br/>
 
-At <a rel="external nofollow" href="https://www.nist.edu/" target="_blank">NIST, Berhampur</a> (2014 - 2015):
+At <a rel="external nofollow" href="https://www.nist.edu/" target="_blank">NIST, Berhampur</a> (Jun 2014 - Jul 2015):
 
  - Analysis and Design of Algorithms (Theory and Labs)
  - Computers and Object Oriented Programming (Theory and Labs)
