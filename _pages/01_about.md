@@ -11,7 +11,7 @@ profile:
   align: right
   image: prof_pic5.jpg
   address: >
-    <p>Department of Computer Science</p>
+    <p>Office: CC-107</p>
     <p>BITS Pilani, Goa Campus</p>
     <p>Goa 403726, India</p>
  
