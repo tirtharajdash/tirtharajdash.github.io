@@ -10,12 +10,6 @@ nav: true
 
 My research focuses on developing deep learning methods that combine neural learning and reasoning with symbolic learning and reasoning, with applications in computational biology and drug discovery.
 
-|                  | *Learning* | *Reasoning* |
-|------------------|------------|-------------|
-| *Neural*         | Yes        | Yes         |
-| *Symbolic*       | Yes        | Yes         |
-| *Neuro-Symbolic* | Both       | Both        |
-
 
 *Neurosymbolic AI*
 

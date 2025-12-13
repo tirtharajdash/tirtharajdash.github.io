@@ -6,7 +6,7 @@ description: Courses that I have taught in the past or I am teaching at present.
 nav: true
 ---
 
-I would like to teach courses on Graph Representation Learning, Geometric Deep Learning, Neuro-Symbolic Learning, Deep Learning, Machine Learning, Theory of Large Language Models, Learning from Relational Databases, Mathematical and Computational Biology, Algorithms for Computational Biology, and AI for Healthcare and Medicine.
+I would like to teach courses on Graph Representation Learning, Geometric Deep Learning, Neuro-Symbolic Learning, Deep Learning, Machine Learning, Theory of Large Language Models, Artificial Intelligence, Learning from Relational Databases, Data Structures and Algorithms, Mathematical and Computational Biology, Algorithms for Computational Biology, and AI for Healthcare and Medicine.
  
 <br/>
 
