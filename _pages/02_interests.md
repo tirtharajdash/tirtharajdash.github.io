@@ -6,33 +6,48 @@ description: My interests in various things in life
 nav: true
 ---
 
-**Research**
+**Research Interests**
 
-(I need to update this page soon; keep watching!)
+My research focuses on developing deep learning methods that combine neural learning and reasoning with symbolic learning and reasoning, with applications in computational biology and drug discovery.
 
-*Deep Learning*
+|                  | *Learning* | *Reasoning* |
+|------------------|------------|-------------|
+| *Neural*         | Yes        | Yes         |
+| *Symbolic*       | Yes        | Yes         |
+| *Neuro-Symbolic* | Both       | Both        |
 
-Neural Networks has had a long and rich history, and the reincarnated viewpoint has shifted towards “Deep Neural Networks” and “Deep Learning”. Deep learning and its ever-evolving implementations have been achieving remarkable successes in subareas of science and technology. I am inclined towards conceptual and implementational aspects of deep learning for problems arising in biology, chemistry, computer vision, robotics and games. This includes: deep learning for structured- and unstructured-data, transfer learning, model compression, adversarial learning, deep reinforcement learning.
 
+*Neurosymbolic AI*
 
-*Neuro-Symbolic AI*
-
-Neural networks can learn from non-symbolic or structured data, and they are found to be robust to noise. However, they suffer from two important issues: their learning is severely affected if data is scarce; they are not interpretable. Whereas, symbolic machine learning models are very data efficient and interpretable. Neuro-symbolic models exploit the advantages of neural networks and symbolic models. My research focus in this area is a combination of deep neural networks and Inductive Logic Programming (ILP). Follow some of my works here:
-<a rel="external nofollow" href="https://github.com/tirtharajdash/NeSy" target="_blank">NeSy</a>.
-
+I develop methods that integrate deep neural networks with symbolic knowledge representations, particularly Inductive Logic Programming (ILP). Neural networks learn well from large datasets but struggle with small data and lack interpretability. Symbolic methods like ILP are data-efficient and interpretable but cannot handle raw data well. My work combines both approaches to build models that are accurate, interpretable, and data-efficient. This includes constructing neural networks from relational knowledge and extracting symbolic rules from trained networks. My key contributions include developing Compositional Relational Machines (CRMs) and methods for including domain knowledge into graph neural networks. See my <a rel="external nofollow" href="https://github.com/tirtharajdash/NeSy" target="_blank">NeSy repository</a> for implementations.
 
 *Graph Representation Learning*
 
-Graph neural networks or GNNs have shown tremendous potential in learning from relational data or graph-structured data. I am interested in conceptual and implementational development of graph-convolution and graph-pooling procedures. Further, I am very motivated to involve myself in the evolving areas of "Geometric Deep Learning". If you are new to the world of GNNs, you may want to go through these introductory slides on <a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/AISymp22_GNNs.pdf" target="_blank">GNNs</a>.
+I work on neural networks for graph-structured data, focusing on designing better graph convolution and pooling operations. My research addresses how to incorporate background knowledge into GNNs to improve their performance and interpretability. Applications include molecular property prediction, drug discovery, and biological network analysis. I have developed several methods including BotGNN (knowledge inclusion via mode-directed inverse entailment) and VEGNN (vertex-enriched graph neural networks). Further, I am very motivated to involve myself in the evolving areas of "Geometric Deep Learning". If you are new to the world of GNNs, you may want to go through these introductory slides on <a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F425_Deep-Learning/blob/main/Lectures/AISymp22_GNNs.pdf" target="_blank">GNNs</a>.
 
+*Computational Biology and Genomics*
 
-*Machine Learning*
+I apply machine learning to problems in genomics and life sciences. My recent work includes developing foundation models and deep sequence models for studying gene regulation, predicting gene expression from DNA sequences to understand cis-regulatory logic, and building genomic foundation models to understand codon usage in eukaryotes. I also work on multi-omics analysis for cancer biomarker discovery, using Boolean analysis and machine learning to study macrophage polarisation in cancer, and analysing single-cell and spatial transcriptomics data in the context of cancer. These works combine large- and small-scale genomic and transcriptomic datasets with interpretable AI methods to extract biological insights.
 
-I work on concept and implementations of Machine Learning models and systems. I primarily focus on various optimisation strategies for learning ML models, including structure optimisation and Bayesian learning. In the past, I have also looked at Probabilistic Graphical Models (PGMs), albeit in the context of Deep Learning.
+*Drug Discovery*
 
-*Computational Biology*
+I develop AI methods for early-stage drug design, including using neuro-symbolic models to generate novel drug candidates with desired properties, molecular property prediction using graph neural networks, incorporating chemical domain knowledge into deep learning models, and developing explainable models for compound screening. My approaches emphasise combining domain expertise from chemistry and biology with data-driven learning.
 
-My area of interest has recently being broadened owing to my Post-PhD experience in AI for Healthcare and AI for Life Sciencec, in general. I look at various interesting problems in Genomics, Single-Cell and Spatial Transcriptomics. I always have a keen interest on solving problems in Drug Discovery. Overall, my interests include applying ML and DL in problems arising in the area of: internet-of-things (IoT), computer networks and finance (time-series analysis).
+*Deep Learning Foundations*
+
+I work on fundamental aspects of deep learning, including large language models to build reliable AI systems for scientific applications. This includes developing methods for model calibration and uncertainty quantification to ensure predictions are trustworthy. I also work on knowledge distillation and model compression to make large models practical for deployment. My research explores transfer learning techniques that allow models trained on one scientific problem to generalise to related problems. Additionally, I focus on explainability and interpretability methods to understand how neural networks make decisions, which is critical for scientific discovery and validation.
+
+<br/>
+
+**Prospective Students**
+
+I am looking for motivated PhD and Master's students interested in AI for science, particularly at the intersection of machine learning and biology. Strong programming skills in Python and PyTorch are valuable, along with a background in either AI/ML or computational biology. If you are interested in working on neurosymbolic AI, graph neural networks, or applications in genomics and drug discovery, please contact me (via email) to discuss potential research opportunities.
+
+<br/>
+
+**Research Consultancy**
+
+I am available for research consultancy with industry partners working on AI applications in life sciences, healthcare, and drug discovery. My expertise includes developing custom machine learning solutions that incorporate domain knowledge, building interpretable AI models for scientific applications, and designing graph neural networks for molecular and biological data. I have prior experience collaborating with industry through projects with TCS Research and Reflexis Systems. If your organisation is interested in leveraging neurosymbolic AI or explainable deep learning for scientific or business problems, please reach out to discuss potential collaborations.
 
 <br/>
 
@@ -52,7 +67,7 @@ I am looking forward to new problems and research discussions. I am happy to col
 
 <br/>
 
-**Teaching**
+**Teaching Interests**
 
 I love teaching any course that is in line with my present research interests: Deep Learning, Machine Learning, Artificial Intelligence. In the past, I have always enjoyed teaching programming (mostly in C or C++) to first-year undergrad students. A course on data structure and algorithms has always been my crush in my short teaching life. I have taught database systems (including labs on MySQL) and would like to teach again if I have to, but with a flavour of relational learning.
  
@@ -113,7 +128,7 @@ I contribute to research indirectly, by reviewing for journals and conferences. 
 
 **What else, if it matters to you?**
 
-I was born and raised in a remote village of Western Odisha, an Indian state rich in culture, vegetables and farming. My father (who is a Master in Arts and Bhagavad Gita) and extended paternal family are involved mostly in farming and small businesses. We speak a dilect of Odia language, known as Kosali (a folk language). My district is known for Odia folk music and the famous Sambalpuri Saree. I enjoy riding motorbikes (mostly fast-yet-careful racing). I play cricket; I am a batsman and a wicketkeeper. That view of the game from behind the stumps is extraordinary. I have occasionally played football; I am a goalkeeper. I love swimming in the sea (The Arabian sea is my neighbour) and known rivers. Trekking is something that always excites me. Watching movies on weekends has always been there since my undergrad studies (sometimes, I do binge-watch). In addition to all these fun stuff, I am also interested in philosophy, spirituality, farming, and poverty prevention.
+I was born and raised in a remote village of Western Odisha, an Indian state rich in culture, vegetables and farming. My father (who is a Master in Arts and Bhagavad Gita) and extended paternal family are involved mostly in farming and small businesses. We speak a dialect of Odia language, known as Kosali (a folk language). My district is known for Odia folk music and the famous Sambalpuri Saree. I enjoy riding motorbikes (mostly fast-yet-careful racing). I play cricket; I am a batsman and a wicketkeeper. That view of the game from behind the stumps is extraordinary. I have occasionally played football; I am a goalkeeper. I love swimming in the sea (The Arabian sea is my neighbour) and known rivers. Trekking is something that always excites me. Watching movies on weekends has always been there since my undergrad studies (sometimes, I do binge-watch). In addition to all these fun stuff, I am also interested in philosophy, spirituality, farming, and poverty prevention.
 
 Websites, I regularly visit:
 
