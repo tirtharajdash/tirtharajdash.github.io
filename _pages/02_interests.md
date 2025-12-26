@@ -4,6 +4,7 @@ permalink: /interests/
 title: interests
 description: My interests in various things in life
 nav: true
+nav_order: 3
 ---
 
 **Research Interests**
@@ -25,7 +26,7 @@ I apply machine learning to problems in genomics and life sciences. My recent wo
 
 *Drug Discovery*
 
-I develop AI methods for early-stage drug design, including using neuro-symbolic models to generate novel drug candidates with desired properties, molecular property prediction using graph neural networks, incorporating chemical domain knowledge into deep learning models, and developing explainable models for compound screening. My approaches emphasise combining domain expertise from chemistry and biology with data-driven learning.
+I develop AI methods for early-stage drug design, including using neurosymbolic AI models to generate novel drug candidates with desired properties, molecular property prediction using graph neural networks, incorporating chemical domain knowledge into deep learning models, and developing explainable models for compound screening. My approaches emphasise combining domain expertise from chemistry and biology with data-driven learning.
 
 *Deep Learning Foundations*
 

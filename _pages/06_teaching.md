@@ -4,6 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses that I have taught in the past or I am teaching at present.
 nav: true
+nav_order: 4
 ---
 
 At <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani, Goa Campus</a> (Dec 2025 - present):

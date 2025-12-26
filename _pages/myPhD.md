@@ -4,6 +4,7 @@ permalink: /myPhD/
 title: phd
 description: Details about my PhD (research, thesis, its evaluation, and its impact)
 nav: true
+nav_order: 6
 ---
 
 #### Inclusion of Symbolic Domain-Knowledge into Deep Neural Networks
