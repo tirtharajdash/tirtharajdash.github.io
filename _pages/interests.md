@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-**Research Interests**
+#### Research Interests
 
 My research focuses on developing deep learning methods that combine neural learning and reasoning with symbolic learning and reasoning, with applications in computational biology and drug discovery.
 
@@ -32,29 +32,29 @@ I develop AI methods for early-stage drug design, including using neurosymbolic 
 
 I work on fundamental aspects of deep learning, including large language models to build reliable AI systems for scientific applications. This includes developing methods for model calibration and uncertainty quantification to ensure predictions are trustworthy. I also work on knowledge distillation and model compression to make large models practical for deployment. My research explores transfer learning techniques that allow models trained on one scientific problem to generalise to related problems. Additionally, I focus on explainability and interpretability methods to understand how neural networks make decisions, which is critical for scientific discovery and validation.
 
-<br/>
+---
 
-**Prospective Students**
+#### Prospective Students
 
 I am looking for motivated PhD and Master's students interested in AI for science, particularly at the intersection of machine learning and biology. Strong programming skills in Python and PyTorch are valuable, along with a background in either AI/ML or computational biology. If you are interested in working on neurosymbolic AI, graph neural networks, or applications in genomics and drug discovery, please contact me (via email) to discuss potential research opportunities.
 
-<br/>
+---
 
-**Research Consultancy**
+#### Research Consultancy
 
 I am available for research consultancy with industry partners working on AI applications in life sciences, healthcare, and drug discovery. My expertise includes developing custom machine learning solutions that incorporate domain knowledge, building interpretable AI models for scientific applications, and designing graph neural networks for molecular and biological data. I have prior experience collaborating with industry through projects with TCS Research and Reflexis Systems. If your organisation is interested in leveraging neurosymbolic AI or explainable deep learning for scientific or business problems, please reach out to discuss potential collaborations.
 
-<br/>
+---
 
-**Teaching Interests**
+#### Teaching Interests
 
 I am passionate about teaching courses aligned with my research interests, particularly Deep Learning, Machine Learning, and Artificial Intelligence. Beyond advanced topics, I enjoy teaching foundational programming courses in C and C++ to first-year undergraduates, as well as Data Structures and Algorithms, which remains one of my favourite courses to teach. I have also taught Database Systems with hands-on MySQL labs and would be interested in teaching it again with an emphasis on relational learning approaches.
 
 Looking ahead, I would like to develop and teach courses on Graph Representation Learning, Geometric Deep Learning, Neuro-Symbolic Learning, Theory of Large Language Models, Learning from Relational Databases, Mathematical and Computational Biology, Algorithms for Computational Biology, and AI for Healthcare and Medicine.
  
-<br/>
+---
 
-**Academic and Research Services**
+#### Academic and Research Services
 
 I contribute to research indirectly, by reviewing for journals and conferences. Some of my activities are listed here.
 
@@ -105,9 +105,9 @@ I contribute to research indirectly, by reviewing for journals and conferences. 
 - Member of organizing committee, ICCI: 2017 (IIT Kanpur)
 
 
-<br/>
+---
 
-**What else, if it matters to you?**
+#### What else, if it matters to you?
 
 I was born and raised in a remote village of Western Odisha, an Indian state rich in culture, vegetables and farming. My father (who is a Master in Arts and Bhagavad Gita) and extended paternal family are involved mostly in farming and small businesses. We speak a dialect of Odia language, known as Kosali (a folk language). My district is known for Odia folk music and the famous Sambalpuri Saree. I enjoy riding motorbikes (mostly fast-yet-careful racing). I play cricket; I am a batsman and a wicketkeeper. That view of the game from behind the stumps is extraordinary. I have occasionally played football; I am a goalkeeper. I love swimming in the sea (The Arabian sea is my neighbour) and known rivers. Trekking is something that always excites me. Watching movies on weekends has always been there since my undergrad studies (sometimes, I do binge-watch). In addition to all these fun stuff, I am also interested in philosophy, spirituality, farming, and poverty prevention.
 
