@@ -23,7 +23,7 @@ I am looking for motivated students to work on AI for science, particularly neur
 **Requirements:**
 - Strong programming skills (Python, PyTorch)
 - Background in CS/AI/ML or computational biology
-- Passion for interdisciplinary research
+- Passion for conceptual ML and interdisciplinary research
 
 **Funding:** Institute fellowships and project-based support available
 
@@ -49,4 +49,4 @@ I am looking for motivated students to work on AI for science, particularly neur
 
 #### How to Apply
 
-Just email me; but, please include your CV, GitHub profile, and 100-words on your most embarrassing research failure. For more details, see my [research interests](/interests/) and [publications](/publications/).
+Just email me; but, please include your CV, GitHub profile, and a 100-words paragraph on your most embarrassing research failure. For more details, see my [research interests](/interests/) and [publications](/publications/).
