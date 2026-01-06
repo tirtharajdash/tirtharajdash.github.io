@@ -9,7 +9,7 @@ nav_order: 4
 
 <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani, Goa Campus</a> (Dec 2025 - present):
 
- - Artificial Intelligence (CS F407): as **IN** (with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a>, Spring 2026)
+ - Artificial Intelligence (CS F407): as **IN** (with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a>, Spring 2026) <a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence" target="_blank">[course page]</a>
  
 ---
  
