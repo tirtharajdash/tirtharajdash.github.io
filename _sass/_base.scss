@@ -445,6 +445,11 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
       @media (min-width: 576px) {
+        .row {
+          display: flex;
+          flex-wrap: nowrap;
+          align-items: baseline;
+        }
         .abbr {
           flex: 0 0 6.5rem;
           max-width: 6.5rem;
