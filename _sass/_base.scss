@@ -403,6 +403,17 @@ footer.sticky-bottom {
 
 // Publications
 
+.pub-note {
+  margin: 0 0 1.5rem;
+  padding: 0.6rem 1rem;
+  border-left: 3px solid var(--global-theme-color);
+  font-size: 0.95rem;
+  color: var(--global-text-color);
+  a {
+    color: var(--global-theme-color);
+  }
+}
+
 .publications {
   margin-top: 2rem;
   h1 {
@@ -441,6 +452,7 @@ footer.sticky-bottom {
         .col-sm-8 {
           flex: 1 1 auto;
           max-width: none;
+          padding-right: 4.5rem;
         }
       }
       .abbr {
