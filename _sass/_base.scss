@@ -456,6 +456,7 @@ footer.sticky-bottom {
         }
         .col-sm-8 {
           flex: 1 1 auto;
+          min-width: 0;
           max-width: none;
           padding-right: 4.5rem;
         }
