@@ -5,7 +5,7 @@ nav_order: 1
 #Tirtharaj <strong>Dash</strong>
 permalink: /
 subtitle: Assistant Professor, Department of Computer Science
-othsubtitle: BITS Pilani, Goa Campus, India
+othsubtitle: BITS Pilani, K K Birla Goa Campus, India
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the Department of Computer Science at <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/index.aspx" target="_blank">BITS Pilani, Goa Campus</a>. My research is in Neurosymbolic AI, Deep Learning, and AI for Science, with applications primarily in chemistry and biology. I lead the <a href="https://mahi-group.github.io" target="_blank">MAHI Lab</a>; see the lab site for research, openings, and team.
+I am an Assistant Professor in the Department of Computer Science at <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/index.aspx" target="_blank">BITS Pilani, K K Birla Goa Campus</a>. My research is in Neurosymbolic AI, Deep Learning, and AI for Science, with applications primarily in chemistry and biology. I lead the <a href="https://mahi-group.github.io" target="_blank">MAHI Lab</a>; see the lab site for research, openings, and team.
 
 Before joining BITS Pilani, I was a Postdoctoral Research Associate at the <a rel="external nofollow" href="https://www.cam.ac.uk/" target="_blank">University of Cambridge, UK</a>, working with <a rel="external nofollow" href="http://sblab.uk/sbornelov.php" target="_blank">Susanne Bornelöv</a> on AI for genomics, and a Postdoctoral Affiliate of Trinity College, Cambridge (now an alumnus). Earlier, I was a Postdoctoral Researcher at the <a rel="external nofollow" href="https://ucsd.edu/" target="_blank">University of California, San Diego</a>, in the <a rel="external nofollow" href="https://sites.google.com/view/debashis-sahoo/" target="_blank">Boolean Lab</a> with Professor <a rel="external nofollow" href="https://sites.google.com/view/debashis-sahoo/members/DebashisSahoo" target="_blank">Debashis Sahoo</a>, applying AI and Boolean analysis to RNA-seq and single-cell data in cancer, inflammatory bowel disease, and macrophage biology.
 
