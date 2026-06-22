@@ -84,7 +84,10 @@ blockquote {
 
 .profile {
   margin-left: 1rem;
-  width: 100%;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
 
   .address {
     margin-bottom: 5px;
@@ -619,4 +622,9 @@ html.transition *:after {
 
 html {
   font-size: 15px;
+}
+
+.post-header .path {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
 }

@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /
 subtitle: Assistant Professor, Department of Computer Science
 othsubtitle: BITS Pilani, K K Birla Goa Campus, India
-#<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+path: "PhD (BITS Pilani) &#8594; Postdoc (UC San Diego, Cambridge) &#8594; Faculty (BITS Pilani)"
 
 profile:
   align: right
