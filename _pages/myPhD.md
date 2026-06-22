@@ -9,7 +9,8 @@ nav_order: 4
 
 #### Inclusion of Symbolic Domain-Knowledge into Deep Neural Networks
 
-Tirtharaj Dash, BITS Pilani, Goa Campus
+Tirtharaj Dash, BITS Pilani, India
+<span class="muted">Submitted: May 2022 &middot; Defended: July 2022</span>
 <br/>
 
 Superviser: <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a>, Senior Professor, BITS Pilani, Goa Campus  
