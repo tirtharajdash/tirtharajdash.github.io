@@ -4,8 +4,7 @@ title: about
 nav_order: 1
 #Tirtharaj <strong>Dash</strong>
 permalink: /
-subtitle: Assistant Professor, Department of Computer Science
-othsubtitle: BITS Pilani, K K Birla Goa Campus, India
+subtitle: Assistant Professor, CS, BITS Pilani, Goa Campus
 path: "PhD (BITS Pilani) &#8594; Postdoc (UC San Diego, Cambridge) &#8594; Faculty (BITS Pilani)"
 
 profile:
