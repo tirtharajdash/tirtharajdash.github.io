@@ -9,7 +9,7 @@ nav_order: 4
 
 #### Inclusion of Symbolic Domain-Knowledge into Deep Neural Networks
 
-Tirtharaj Dash, BITS Pilani, India
+Tirtharaj Dash, BITS Pilani, India<br>
 <span class="muted">Submitted: May 2022 &middot; Defended: July 2022</span>
 <br/>
 
@@ -50,4 +50,9 @@ I sincerely thank the thesis examiners for their thorough evaluation of my thesi
 
 ##### Accolades
 
-I won the **Best PhD Thesis Award** from my university. 
+During and after my PhD, my work was recognised through the following:
+
+* **Best PhD Thesis Award** from BITS Pilani (Goa Campus).
+* The **DST-AWSAR Award** from the Department of Science and Technology, Government of India.
+* **Best Student Paper Award** at the International Conference on Inductive Logic Programming (ILP), 2018.
+* A **travel grant** from the European Association for Artificial Intelligence (EurAI) during my PhD.
