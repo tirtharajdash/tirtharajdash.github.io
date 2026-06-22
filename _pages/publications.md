@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <div class="pub-note">
-This page may not always be up to date. For the most current list, see my <a rel="external nofollow" href="https://scholar.google.com/citations?user=1ZcwKZEAAAAJ" target="_blank">Google Scholar profile</a>. For the group's publications, visit the <a href="https://mahi-group.github.io/publications/" target="_blank">MAHI Lab publications page</a>.
+This page may not always be up to date. Check my <a rel="external nofollow" href="https://scholar.google.com/citations?user=1ZcwKZEAAAAJ" target="_blank">Google Scholar profile</a> or <a href="https://mahi-group.github.io/publications/" target="_blank">MAHI Lab publications</a>.
 </div>
 
 <div class="publications">
