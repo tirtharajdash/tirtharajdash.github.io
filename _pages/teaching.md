@@ -10,7 +10,7 @@ nav_order: 3
 <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani, Goa Campus</a> (Dec 2025 - present):
 
  - Artificial Intelligence (CS F407)
-   - AY2026-27, S1, with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a> \[<a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F407-AI-AY2026-27-S1" target="_blank">coursepage</a>\]
+   - AY2026-27, S1, with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a> \[<a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F407-AI-AY2026-27-S1" target="_blank">course page</a>\]
    - AY2025-26, S2, with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">Ashwin Srinivasan</a> \[<a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2" target="_blank">course page</a>\]
 
  - Logic in Computer Science (CS F214)
