@@ -9,8 +9,12 @@ nav_order: 3
 
 <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems" target="_blank">BITS Pilani, Goa Campus</a> (Dec 2025 - present):
 
- - Artificial Intelligence (CS F407)
-    * Spring 2026, as **IC**, with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">A. Srinivasan</a> \[<a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence?tab=readme-ov-file#welcome-to-the-ai-course-cs-f407--spring-2026" target="_blank">course page</a>\]
+ - **Artificial Intelligence (CS F407)**
+   - **AY2026-27, S1:** with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">A. Srinivasan</a> \[<a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F407-AI-AY2026-27-S1" target="_blank">URL</a>\]
+   - **AY2025-26, S2:** with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/ashwin/profile" target="_blank">A. Srinivasan</a> \[<a rel="external nofollow" href="https://github.com/tirtharajdash/CS-F407-AI-AY2025-26-S2" target="_blank">URL</a>\]
+
+ - **Logic in Computer Science (CS F214)**
+   - **AY2026-27, S1:** with <a rel="external nofollow" href="https://www.bits-pilani.ac.in/goa/a-baskar/" target="_blank">A. Baskar</a>
  
 ---
  
